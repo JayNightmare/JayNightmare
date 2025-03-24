@@ -30,7 +30,7 @@
                         <div class="field calendar">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
-                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                                     <rect class="day" x="15" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="30" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="45" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
@@ -42,7 +42,7 @@
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                                     <rect class="day" x="195" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                 </g>
                             </svg>
@@ -82,7 +82,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            3174 Commits
+                            3176 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -238,14 +238,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="240.3521487368708" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="240.3521487368708" y="0" width="134.70022101269154" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="375.05236974956233" y="0" width="32.543761600607056" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="407.5961313501694" y="0" width="19.764062606968714" height="8" fill="#A97BFF"/>
-                    <rect mask="url(#languages-bar)" x="427.3601939571381" y="0" width="18.33526663454806" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="445.6954605916862" y="0" width="6.395637670560781" height="8" fill="#ff5a03"/>
-                    <rect mask="url(#languages-bar)" x="452.091098262247" y="0" width="5.7709073250255765" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="457.8620055872725" y="0" width="2.137994412727499" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="240.29631467945225" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="240.29631467945225" y="0" width="134.70348064211038" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="374.9997953215626" y="0" width="32.61212327441152" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="407.61191859597415" y="0" width="19.758108464220932" height="8" fill="#A97BFF"/>
+                    <rect mask="url(#languages-bar)" x="427.37002706019507" y="0" width="18.329742932410916" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="445.699769992606" y="0" width="6.393710913880694" height="8" fill="#ff5a03"/>
+                    <rect mask="url(#languages-bar)" x="452.09348090648666" y="0" width="5.769168775280985" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="457.86264968176766" y="0" width="2.137350318232329" height="8" fill="#3572A5"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -2548,6 +2548,26 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">JayNightmare/SDP-Website</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#869af2c</div>
+                                        <div class="message">Enhance patient dashboard and eGFR options with improved creatinine handling and validation</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 2 commits in
                                         <span class="repo">JayNightmare/SDP-server</span>
                                     </div>
@@ -2631,26 +2651,6 @@ Added New Schema and Answer API</div>
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">JayNightmare/SDP-Website</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#b278790</div>
-                                        <div class="message">Fix incorrect navigation links in eGFR options page</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
@@ -2717,7 +2717,7 @@ Added New Schema and Answer API</div>
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="239.63 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="239.94 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -2739,7 +2739,7 @@ Added New Schema and Answer API</div>
                                     <span class="prefix">Master</span>
                                     deployer
                                 </div>
-                                <div class="text">Repositories have been deployed 3319 times</div>
+                                <div class="text">Repositories have been deployed 3322 times</div>
                             </div>
                         </div>
                         <div class="achievement a largeable-width-half">
@@ -3154,7 +3154,7 @@ Added New Schema and Answer API</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 3.74m out of 233m repositories</span>
+                                    <span class="gh">ranked 3.74m out of 238m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 2 times</div>
                             </div>
@@ -3312,7 +3312,7 @@ Added New Schema and Answer API</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 24 Mar 2025, 21:02:17 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 24 Mar 2025, 22:02:08 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
