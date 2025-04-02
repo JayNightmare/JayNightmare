@@ -13,11 +13,11 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for creatin
 - ⚡ Fun fact: I am a huge fan of sci-fi movies and enjoy playing the guitar in my free time.
 
 ## 🛠️ Technologies & Tools
-- **Languages:** JavaScript, Python, Java, C++
-- **Frameworks/Libraries:** React, Node.js, Django, Flask
-- **DevOps:** Docker, Kubernetes, Jenkins, GitHub Actions
-- **Cloud:** AWS, Azure, Google Cloud Platform
-- **Databases:** MySQL, PostgreSQL, MongoDB
+- **Languages:** JavaScript, Python, Java, Kotlin, PHP
+- **Frameworks/Libraries:** React, React Native, Node.js, Discord.js
+- **DevOps:** Docker, Kubernetes, GitHub Actions
+- **Cloud:** AWS, Azure, Google Cloud Platform, Firebase
+- **Databases:** MySQL, MongoDB, SQLite3
 
 <p align="center">
   <h3 align="center">Vist my sites:</h3>
