@@ -77,7 +77,9 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for creatin
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JayNightmare&theme=radical)
 </div>
 
-  
+  <div align="center">
+      <img src="./github-metrics.svg" title="<3">
+  </div>
 </p>
 
 ---
