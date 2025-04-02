@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for creatin
 - ⚡ Fun fact: I am a huge fan of sci-fi movies and enjoy playing the guitar in my free time.
 
 ## 🛠️ Technologies & Tools
-- **Languages:** JavaScript, Python, Java, Kotlin, PHP
+- **Languages:** JavaScript, Python, Java, Kotlin, PHP 
 - **Frameworks/Libraries:** React, React Native, Node.js, Discord.js
 - **DevOps:** Docker, Kubernetes, GitHub Actions
 - **Cloud:** AWS, Azure, Google Cloud Platform, Firebase
