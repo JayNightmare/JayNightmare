@@ -82,7 +82,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            3227 Commits
+                            3228 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -238,14 +238,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="213.85568229935785" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="213.85568229935785" y="0" width="125.36732600087721" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="339.22300830023505" y="0" width="45.865905445008856" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="385.08891374524393" y="0" width="33.05606187310004" height="8" fill="#A97BFF"/>
-                    <rect mask="url(#languages-bar)" x="418.14497561834395" y="0" width="29.13070252254905" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="447.275678140893" y="0" width="5.689113776508316" height="8" fill="#ff5a03"/>
-                    <rect mask="url(#languages-bar)" x="452.9647919174013" y="0" width="5.133397177404055" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="458.0981890948054" y="0" width="1.9018109051945904" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="213.6579610443714" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="213.6579610443714" y="0" width="125.67671217921577" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="339.3346732235872" y="0" width="45.82349991110781" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="385.158173134695" y="0" width="33.0254997390095" height="8" fill="#A97BFF"/>
+                    <rect mask="url(#languages-bar)" x="418.1836728737045" y="0" width="29.103769597506016" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="447.2874424712105" y="0" width="5.6838538801915215" height="8" fill="#ff5a03"/>
+                    <rect mask="url(#languages-bar)" x="452.9712963514021" y="0" width="5.128651071425729" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="458.0999474228278" y="0" width="1.900052577172258" height="8" fill="#3572A5"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -318,7 +318,7 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 75 commits)</small>
+                    <small class="h-details">(computed from last 79 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
@@ -2569,14 +2569,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">JayNightmare/SDP-Website</span>
+                                        <span class="repo">JayNightmare/SDP-server</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#8e6714c</div>
-                                        <div class="message">Refactor patient dashboard to remove email display, enhance history item creation, and improve error handling in data loading</div>
+                                        <div class="sha">#696d3fa</div>
+                                        <div class="message">Update patient.js</div>
                                     </div>
                                 </div>
                             </section>
@@ -2589,12 +2589,12 @@
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#7 Stupid Object Type</span>
+                                        <span class="issue">#9 Setting the Result ID in backend</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">b-sass/SDP-server</span></div>
-                                    <div>1 file changed <span class="code">++19 --12</span></div>
+                                    <div>1 file changed <span class="code">++18 --10</span></div>
                                 </div>
                             </section>
                         </div>
@@ -2612,28 +2612,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#422d7a3</div>
-                                        <div class="message">Merge branch 'b-sass:main' into main</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">JayNightmare/SDP-server</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#3b6bd72</div>
-                                        <div class="message">Refactor Patient and Answer schemas to use Number type for resultId, enforce uniqueness, and correct required field definitions</div>
+                                        <div class="sha">#6b5c99e</div>
+                                        <div class="message">Merge branch 'main' of https://github.com/JayNightmare/SDP-server</div>
                                     </div>
                                 </div>
                             </section>
@@ -2645,13 +2625,30 @@
                                         <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
                                     </svg>
                                     <div class="content">
-                                        Opened
-                                        <span class="issue">#6 Add resultId to AnswerSchema and fix required field definitions in PatientSchema</span>
+                                        Closed
+                                        <span class="issue">#8 Add resultId handling in patient answers and results routes</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">b-sass/SDP-server</span></div>
-                                    <div>1 file changed <span class="code">++16 --13</span></div>
+                                    <div>1 file changed <span class="code">++11 --3</span></div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Opened
+                                        <span class="issue">#8 Add resultId handling in patient answers and results routes</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div> in <span class="repo">b-sass/SDP-server</span></div>
+                                    <div>1 file changed <span class="code">++11 --3</span></div>
                                 </div>
                             </section>
                         </div>
@@ -2790,7 +2787,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 4 Apr 2025, 20:02:13 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 4 Apr 2025, 21:02:06 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
