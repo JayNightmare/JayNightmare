@@ -82,7 +82,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            3277 Commits
+                            3278 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -238,14 +238,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="211.7848524233671" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="211.7848524233671" y="0" width="128.5899846448813" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="340.37483706824844" y="0" width="45.24515509044174" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="385.61999215869014" y="0" width="32.6086802738657" height="8" fill="#A97BFF"/>
-                    <rect mask="url(#languages-bar)" x="418.22867243255587" y="0" width="29.219217010589514" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="447.4478894431454" y="0" width="5.612117163017837" height="8" fill="#ff5a03"/>
-                    <rect mask="url(#languages-bar)" x="453.0600066061632" y="0" width="5.063921646787356" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="458.1239282529505" y="0" width="1.87607174704945" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="211.78707195871425" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="211.78707195871425" y="0" width="128.58651142082843" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="340.3735833795427" y="0" width="45.24562926609624" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="385.6192126456389" y="0" width="32.609022017468526" height="8" fill="#A97BFF"/>
+                    <rect mask="url(#languages-bar)" x="418.2282346631075" y="0" width="29.21952323213571" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="447.4477578952432" y="0" width="5.6121759788031635" height="8" fill="#ff5a03"/>
+                    <rect mask="url(#languages-bar)" x="453.0599338740464" y="0" width="5.063974717405776" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="458.1239085914521" y="0" width="1.8760914085479405" height="8" fill="#3572A5"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -318,7 +318,7 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 41 commits)</small>
+                    <small class="h-details">(computed from last 42 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
@@ -2597,6 +2597,26 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
+                                        <div class="sha">#0c655fd</div>
+                                        <div class="message">Remove userId storage on successful clinician login for enhanced security</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">JayNightmare/SDP-Website</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
                                         <div class="sha">#b5ad536</div>
                                         <div class="message">Add MFA setup modal and enhance clinician dashboard styles for better UX</div>
                                     </div>
@@ -2661,26 +2681,6 @@ Signed-off-by: Jay &lt;jordanbell321@gmail.com&gt;</div>
                                     <div class="commit">
                                         <div class="sha">#97eb789</div>
                                         <div class="message">Update README.md</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">JayNightmare/SDP-Website</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#e2c023c</div>
-                                        <div class="message">Refactor fetchResults to handle resultId more robustly and clean up commented-out code</div>
                                     </div>
                                 </div>
                             </section>
@@ -2810,7 +2810,7 @@ Signed-off-by: Jay &lt;jordanbell321@gmail.com&gt;</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 13 Apr 2025, 07:02:24 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 13 Apr 2025, 08:02:06 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
