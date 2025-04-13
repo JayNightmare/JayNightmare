@@ -82,7 +82,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            3290 Commits
+                            3293 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -238,14 +238,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="211.63571217343468" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="211.63571217343468" y="0" width="128.6840236283523" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="340.319735801787" y="0" width="45.2215097238477" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="385.5412455256347" y="0" width="32.591638798426345" height="8" fill="#A97BFF"/>
-                    <rect mask="url(#languages-bar)" x="418.13288432406097" y="0" width="29.321564921013437" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="447.4544492450744" y="0" width="5.609184239759579" height="8" fill="#ff5a03"/>
-                    <rect mask="url(#languages-bar)" x="453.063633484834" y="0" width="5.061275213517264" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="458.12490869835125" y="0" width="1.875091301648676" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="211.46826985360437" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="211.46826985360437" y="0" width="128.8576190438813" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="340.3258888974857" y="0" width="45.183031007082626" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="385.5089199045683" y="0" width="32.563906764580224" height="8" fill="#A97BFF"/>
+                    <rect mask="url(#languages-bar)" x="418.0728266691486" y="0" width="29.392297511307568" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="447.46512418045614" y="0" width="5.604411417866571" height="8" fill="#ff5a03"/>
+                    <rect mask="url(#languages-bar)" x="453.0695355983227" y="0" width="5.056968604193508" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="458.12650420251623" y="0" width="1.873495797483835" height="8" fill="#3572A5"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -318,7 +318,7 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 49 commits)</small>
+                    <small class="h-details">(computed from last 51 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
@@ -2597,6 +2597,46 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
+                                        <div class="sha">#b01527c</div>
+                                        <div class="message">Implement patient contact functionality with messaging interface and error handling</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">JayNightmare/SDP-Website</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#6db2f42</div>
+                                        <div class="message">Enhance clinician dashboard with new patient button, improved patient data fetching, and responsive design updates for better user experience</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">JayNightmare/SDP-Website</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
                                         <div class="sha">#b139b33</div>
                                         <div class="message">Add new patient button and update appointment modal styles for improved UX</div>
                                     </div>
@@ -2639,46 +2679,6 @@
                                     <div class="commit">
                                         <div class="sha">#d7f86d2</div>
                                         <div class="message">Add endpoint to retrieve detailed patient information for a clinician</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">JayNightmare/SDP-Website</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#d74f227</div>
-                                        <div class="message">Implement MFA setup functionality, including QR code generation and verification, and update related styles and scripts for enhanced user experience.</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">JayNightmare/SDP-server</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#dbc16c5</div>
-                                        <div class="message">Add appointment schema to Clinician and Patient models</div>
                                     </div>
                                 </div>
                             </section>
@@ -2808,7 +2808,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 13 Apr 2025, 18:02:03 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 13 Apr 2025, 19:02:18 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
