@@ -23,10 +23,18 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for creatin
   <h3 align="center">Vist my sites:</h3>
   <div align="center">
     <a href="https://nexusgit.info" target="_blank" rel="noopener">
-      <img src="./NexusGit.gif" title="<3">
+      <img src="./images/NexusGit.gif" title="<3">
     </a>
     <a href="https://distrack-website.vercel.app" target="_blank" rel="noopener">
-      <img src="./DisTrack.gif" title="<3">
+      <img src="./images/DisTrack.gif" title="<3">
+    </a>
+  </div>
+  <div align="center">
+    <a href="https://jaynightmare.github.io/TALE-FYP" target="_blank" rel="noopener">
+      <img src="./images/TALE.gif" title="<3">
+    </a>
+    <a href="https://jaynightmare.github.io/SDP-Website" target="_blank" rel="noopener">
+      <img src="./images/CKD.gif" title="<3">
     </a>
   </div>
 </p>
