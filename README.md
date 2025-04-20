@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for creatin
 - 💬 Ask me about anything related to JavaScript, Python, or DevOps.
 - 📫 How to reach me: [jn3.enquiries@gmail.com](mailto:jn3.enquiries@gmail.com)
 - ⚡ Fun fact: I am a huge fan of sci-fi movies and enjoy playing the guitar in my free time.
-
+ 
 ## 🛠️ Technologies & Tools
 - **Languages:** JavaScript, Python, Java, Kotlin, PHP 
 - **Frameworks/Libraries:** React, React Native, Node.js, Discord.js
