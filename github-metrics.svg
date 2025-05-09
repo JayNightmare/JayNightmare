@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1816" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2132" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex}.horizontal .field,.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal{justify-content:space-around}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.b{color:#9d8fff;background-color:#9e91ff26;border-color:#9e91ff}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution.organization .avatar{margin:0 4px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.habits .facts{margin:0;list-style-type:none;padding-left:37px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry,.repository{display:flex;flex-direction:column}.chart-bars .entry{flex-grow:1;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars.horizontal{flex-direction:column;height:100%}.chart-bars.horizontal .entry{align-items:center;flex-direction:row;width:100%;min-height:1rem}.chart-bars.horizontal .entry .name{flex-shrink:0;text-align:right;width:34%;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.chart-bars.horizontal .bar{height:7px;width:auto;margin:0 6px}.repository{width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.repository .description{display:block;width:440px;white-space:normal}.repository .description,.repository .infos{color:#666;margin-left:38px;font-size:13px}.repository .infos&gt;div{display:flex;align-items:center;margin-right:16px}.repository .infos svg{margin:0 4px 0 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message,.project .description{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}.project .description{display:block;width:420px;margin-left:37px;max-height:38px;font-size:12px;white-space:normal;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.field.warning{color:#d79533}.field.warning svg{fill:#d79533}.row{display:flex}.horizontal .field,.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal{justify-content:space-around}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.b{color:#9d8fff;background-color:#9e91ff26;border-color:#9e91ff}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution.organization .avatar{margin:0 4px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.habits .facts{margin:0;list-style-type:none;padding-left:37px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry,.repository{display:flex;flex-direction:column}.chart-bars .entry{flex-grow:1;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .entry .empty{width:100%;text-align:center}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars.horizontal{flex-direction:column;height:100%}.chart-bars.horizontal .entry{align-items:center;flex-direction:row;width:100%;min-height:1rem}.chart-bars.horizontal .entry .name{flex-shrink:0;text-align:right;width:34%;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.chart-bars.horizontal .bar{height:7px;width:auto;margin:0 6px}.repository{width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.repository .description{display:block;width:440px;white-space:normal}.repository .description,.repository .infos{color:#666;margin-left:38px;font-size:13px}.repository .infos&gt;div{display:flex;align-items:center;margin-right:16px}.repository .infos svg{margin:0 4px 0 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment,.project .description{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.activity .details&gt;.comment{margin-top:6px;border-left:3px solid #777777b2;padding-left:6px}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.project .description{margin-left:37px;max-height:38px;font-size:12px;white-space:normal}.project .items{padding-left:11px}.project .items .text{text-overflow:ellipsis;overflow:hidden;width:426px}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.token.comment{color:#690}.token.string{color:#2777aa}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -318,12 +318,12 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 19 commits)</small>
+                    <small class="h-details">(computed from last 21 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
                         <li>Mostly pushes code around 16:00</li>
-                        <li>Mostly active on Wednesday</li>
+                        <li>Mostly active on Thursday</li>
                     </ul>
                 </div>
             </section>
@@ -2363,7 +2363,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>JayNightmare/GitHub-Portfolio</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2584,15 +2584,581 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">JayNightmare/GitHub-Portfolio</span>
+                                        Pushed 541 commits in
+                                        <span class="repo">JayNightmare/tensorzero</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#7f37956</div>
-                                        <div class="message">Update footer copyright year to 2025 and add README.md with project details and features</div>
+                                        <div class="sha">#270853a</div>
+                                        <div class="message">Support OpenAI 'image_url' content blocks in openai-compat (#1149)
+
+* Support OpenAI 'image_url' content blocks in openai-compat
+
+This also removes the restriction on only passing in one content
+block through the openai-compatible api.
+We support both base64 'data:' urls, as well as normal remote urls.
+
+* Update error message in test
+
+---------
+
+Co-authored-by: Viraj Mehta &lt;virajmehta@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#86710df</div>
+                                        <div class="message">Add Together fine-tuning metric notebook (#1131)
+
+* Add Together fine-tuning metric notebook
+
+* Adjust imports
+
+* Run format
+
+* Remove output</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#de75677</div>
+                                        <div class="message">Add 'TensorZeroError::RequestTimeout' and produce a better Python err (#1151)
+
+* Add 'TensorZeroError::RequestTimeout' and produce a better Python err
+
+This makes a timeout error understandable even without
+`verbose_errors=True`
+
+* Adjust import</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9363ede</div>
+                                        <div class="message">Used ResolvedInput for dicl and reject images in examples (#1150)
+
+We now always use `ResolvedInput` when deserializing from clickhouse
+(so we never expect to see a base64 image stored directly in clickhouse).</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c382b9b</div>
+                                        <div class="message">Add support for 'extra_body' in model provider config (#1121)
+
+* Add `ModelProvider` struct to wrap `ProviderConfig` enum
+
+This will be used to hold generic model provider configuration
+fields used by all provder implementations (e.g. an `extra_body`
+field).
+
+This PR is a pure refactoring, with no behavioral changes.
+
+* Remove extra type hint
+
+* Use serde(transparent)
+
+* Add support for 'extra_body' in model provider config
+
+This has a higher priority than the variant-level 'extra_body' -
+if the same key is set in both, then the value from the model provider
+config will be used in the constructed request.
+
+* Fix batch tests
+
+* Add comment and fix compilation
+
+* Run fmt
+
+* Fix batch tests
+
+* Adjust tests
+
+* Fix e2e tensorzero.toml for pointer format</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ff3e17b</div>
+                                        <div class="message">Add 5 minute timeout to all outgoing HTTP requests (#1148)
+
+This should be high enough to never interfere with real providers,
+which still catching problems like the Together api hanging.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#75b80a7</div>
+                                        <div class="message">Prevent clashes in image tests by adding a 'prefix' field (#1138)
+
+This field is only enabled in e2e tests, and is set to a random
+string for each test run. This ensures that each s3-compatible image
+test run will correctly check that a new object was uploaded.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#03e1084</div>
+                                        <div class="message">Pin pyright==1.1.394 on ci to unbreak build (#1141)
+
+Pyright 1.1.395 started producing errors for our 'recipes', so let's
+pin it to the previous version for now</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#18e3031</div>
+                                        <div class="message">Deprecate passing in arbitrary json objects to openai-compat api (#1130)
+
+Previously, we supported invoking the openai-compatible inference
+endpoints with messages like:
+
+```json
+[
+    {"role": "system", "content": [{"assistant_name": "Alfred Pennyworth"}]},
+    {"role": "user", "content": [{"country": "Japan"}]},
+]
+```
+
+However, the real OpenAI endpoints expects entries in the "content"
+array to be valid OpenAI content blocks, (e.g. "type": "text" or
+"type": "image_url"). This can clash with user-defined TensorZero
+function schemas (e.g. a json schema with a parameter named "type")
+
+We now support parsing special content blocks that look like:
+`{"type": "text", "tensorzero::arguments", {"some": "arbitrary
+object"}}`
+
+The "tensorzero::arguments" value is pasesd along to the TensorZero
+function as input, without any modifications.
+
+To avoid breaking existing clients, we first try to parse each
+content block as either a valid OpenAI content block, or our
+special "tensorzero::arguments" block. If this fails, then we
+log a warning and fall back to the old behavior (creating an
+`InputMessageContent::Text` with `value` set to the entire
+'content block' json object.
+
+In the future, we'll want to change this in an error, and require
+that all content blocks have a valid "type" key.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b285c6c</div>
+                                        <div class="message">Add skeleton images to UI (#1139)
+
+* added image support alongside other data model changes
+
+* fixed tests</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#719fbb3</div>
+                                        <div class="message">Add page sub-nav and page header components (#1109)
+
+* added primary, secondary, tertiary bg and changed text highlight to orange-200
+
+* custom icons and minor style updates for sidebar
+
+* colors adjustments, bg-background-primary to bg-background for now
+
+* changed a to Link in tables to prevent reloads
+
+* removed shadows from cards inputs and selectors, plus minor style adjustments
+
+* added page header and changed a links to Link links on variant, episode, function
+
+* function page structure clean-up and minor color tweaks
+
+* PageSubNav and color tweaks
+
+* minor color change for lighter bg
+
+* minor, dashboard muted color token change
+
+* cleaned up some browser errors
+
+* fixed breadcrums and broken feature flag
+
+---------
+
+Co-authored-by: Viraj Mehta &lt;viraj@tensorzero.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b9a470e</div>
+                                        <div class="message">Add initial support for image input (#1081)
+
+* Add initial support for image input
+
+We now support passing in image content blocks. There are two
+supported formats:
+
+* URL: `{"type": "image", "url": "https://example.org/my-image.png"}`
+* Base64: `{"type": "image", "mime_type": "image/png", "data": "&lt;base64&gt;"}
+
+I've added support to the openai, google_ai_studio_gemini, and anthropic
+providers.
+
+When we receive an image url, we download it outselves, and then pass
+the downloaded image to the model provider. This ensures that the
+contents of our object store always matches the actual image
+that we send to a model provider.
+
+We write the image to the object store as part of the clickhouse
+inference table writes. As a result, the `async_writes` also controls
+whether or not we block the request on writing images to the object
+store. However, an error when writing to the object store does not
+cause the overall request to fail.
+
+The object store path is currently `images/{hash}.{suffix}.base64`,
+where `hash` is the BLAKE3 hash of the base64-encoded images, and
+'suffix' is the filetype suffix (`png`, `jpg`, or `webp`)
+
+The supported mime types are `image/png`, `image/jpg`, and `image/webp`
+By default, any requests containing image content blocks will be
+rejected. To allow image requests, you must configure an object store
+in the gateway config:
+
+```toml
+[gateway.object_store]
+type = "filesystem"
+path = "/some/local/path"
+```
+
+The supported types are:
+* `filesystem` - writes to a local directory
+* `s3` - writes to an S3 bucket
+* `disabled` - explicitly disables saving images.
+
+When we serialize inputs and `raw_request` to ClickHouse, we strip
+out the image content, to avoid filling up ClickHouse with images.
+
+Main code changes:
+* In addition to `InputMessageContent`, we now have
+`ResolvedInputMessageContent`. An `InputMessageContent` represents the
+content directly deserialized from the inference request, and can
+include either an image or or a base64-encoded image. A
+`ResolvedInputMessageContent` is produced after we download any image
+urls, and only stores base64-encoded images. We now have `Resolved`
+versions of other structs as well (e.g. `ResolvedInput`)
+* A new `ObjectStoreData` struct manages the configured object store
+ (wrapping the `object_store` crate).
+
+* Fix clippy
+
+* Fix batch tests
+
+* Fix unused warning
+
+* Fix batch/e2e feature compilation
+
+* Make ObjectStoreData optional
+
+* Add new error type
+
+* Revert openai test changes
+
+* Test that images are rejected without explicit object storage
+
+* Fix clippy
+
+* Fix merge fallout
+
+* Add another allow(dead_code)
+
+* Adjust base64
+
+* Fix it
+
+* Work on s3
+
+* Get it running
+
+* Get fs test working
+
+* Adjust prints
+
+* Fix anthropic image provider
+
+* s/stripped/resolved/
+
+* Rename ObjectStoreData to ObjectStoreInfo
+
+* Work on review comments
+
+* Split out image code and add unit test
+
+* Adjust test
+
+* Move to top-level `[object_storage]` config section
+
+* Fix unit tests
+
+* Fix batch tests warnings
+
+* Use join_all for both clickhouse and object_store futures
+
+* Move sanitize_raw_request to image.rs
+
+* Add 'workflow_dispatch:' to merge queue checks
+
+* [Temp] Add on-push to merge-queue
+
+* Revert "[Temp] Add on-push to merge-queue"
+
+This reverts commit 5b4a48ba99c90d0d054491ddfc406aca1ec0f72d.
+
+* Store image path in 'input_messages'
+
+* Run fmt
+
+* Add test for fetching image from url
+
+* Run fmt
+
+* Fix a typo
+
+* Remove unused 'typeid' dependency</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2567410</div>
+                                        <div class="message">fixed feature flag issue (#1135)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#26ae697</div>
+                                        <div class="message">Use json pointer in 'extra_body' field (#1127)
+
+* Use json pointer in 'extra_body' field
+
+This allows users to overwrite specific fields, without
+replacing entire objects (e.g 'generationConfig')
+
+* Run fmt
+
+* Address review comments
+
+* Fix typo
+
+* One more typo
+
+* Fix expected error
+
+* Fix best_of_n test
+
+---------
+
+Co-authored-by: Viraj Mehta &lt;virajmehta@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5a039fb</div>
+                                        <div class="message">Change the variant performance queries in the UI to overwrite feedback (#1128)
+
+* wip
+
+* updated tests and fixtures to make sure that the deduplication works</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6ef5982</div>
+                                        <div class="message">Simplify 'test_clickhouse_migration_manager' using some macros (#1117)
+
+* Simplify 'test_clickhouse_migration_manager' using some macros
+
+We now have a single `run_migrations_up_to` closure, which
+is repeatedly called to test running all migrations up to
+a certain migration. The macros allow us to work around
+`#[traced_test]` limitations.
+
+* Fix clippy
+
+* Adjust comments
+
+---------
+
+Co-authored-by: Viraj Mehta &lt;virajmehta@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6196836</div>
+                                        <div class="message">Fix nightly clippy warnings (#1122)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5d7b4c3</div>
+                                        <div class="message">Support 'extra_body' on best_of_n, mixture_of_n, and dicl (#1120)
+
+For dicl, the 'extra_body' field is specified directly
+in the dicl variant definition (it does not apply to
+the embedding model).
+
+For 'best_of_b' and 'mixture_of_n', the 'extra_body' field
+is set on the 'evaluator' and 'fuser' variants respectively.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8c88242</div>
+                                        <div class="message">Add `ModelProvider` struct to wrap `ProviderConfig` enum (#1107)
+
+* Add `ModelProvider` struct to wrap `ProviderConfig` enum
+
+This will be used to hold generic model provider configuration
+fields used by all provder implementations (e.g. an `extra_body`
+field).
+
+This PR is a pure refactoring, with no behavioral changes.
+
+* Remove extra type hint
+
+* Use serde(transparent)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#675e7de</div>
+                                        <div class="message">Implement most of the datasets UI (#1112)
+
+* sidebar improvements
+
+* sidebar improvements
+
+* added the active state for nav item and hook for that
+
+* removed the active state from the logo item
+
+* padding fixed
+
+* added icons and logos and fixed the sidebar item
+
+* Dashboard improvement and sidebar link use
+
+* added counters to the index and episode counter to utils inference
+
+* commit
+
+* layout adjustments
+
+* dashboard footer items based on the feedback
+
+* fixed demonstration tables so output is nullable
+
+* oops a file
+
+* removed stale names
+
+* added types for dataset tables
+
+* wip
+
+* wip
+
+* added demonstrations to query builder
+
+* added a more complex test
+
+* added a dataset combobox and beginning of a form
+
+* small fixes for code style
+
+* moved function selector into components/function
+
+* added function selector to dataset builder
+
+* generalized MetricSelector to take form data
+
+* metric selector has warts
+
+* removed warts
+
+* count works
+
+* insertion ex dataset name
+
+* dataset builder works with warts
+
+* improved dataset creation behavior
+
+* renamed created_at -&gt; updated_at
+
+* dataset counts are now sorted
+
+* wip
+
+* improved dataset selector
+
+* improved dataset builder
+
+* included but did not wire output button
+
+* fixed tests
+
+* moved countFetcher into its native route
+
+* added radio group component
+
+* added output source selector component
+
+* removed countfetcher from old file
+
+* refactored clickhouse a bit, counts render now
+
+* disabled button if there isnt anything to insert
+
+* added variable button text on insertion into dataset
+
+* removed console logs
+
+* added tests for counting dataset examples
+
+* added logic that removes demonstrations from metric selector in dataset builder only
+
+* included lockfile
+
+* added a check that the tables are nonempty before dropping
+
+* updated dataset fixtures to new schema
+
+* added dataset paginated query
+
+* added dataset detail page
+
+* added redirect to builder page and also changed a -&gt; Link
+
+* added dataset list page
+
+* wip
+
+* fixed test
+
+* fixed PR comments
+
+* wip
+
+* implemented get_datapoint and tests
+
+* wip
+
+* added parsing for dataset row query
+
+* wip
+
+* added datapoint detail page
+
+* removed duplicated output component
+
+* removed duplicated input component
+
+* moved trywithvariant to inference folder
+
+* wip doesnt work
+
+* added insert and delete datapoint methods
+
+* wired up datapoint detail page
+
+* delete button works but does not redirect
+
+* redirect on delete works but not if its the last datapoint
+
+* added redirect to datasets page if dataset is empty after delete
+
+* redirect works
+
+* removed an extra comment
+
+* added add to dataset button that doesnt do anything
+
+* added confirmation dialog
+
+* added add to dataset button that seems to work
+
+* removed console logs
+
+* removed console logs
+
+* Update
+
+---------
+
+Co-authored-by: maxbokov &lt;maxbokv@gmail.com&gt;
+Co-authored-by: Gabriel Bianconi &lt;1275491+GabrielBianconi@users.noreply.github.com&gt;</div>
                                     </div>
                                 </div>
                             </section>
@@ -2605,46 +3171,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">JayNightmare/GitHub-Portfolio</span>
+                                        <span class="repo">Nexus-Scripture/.github</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#5400c7a</div>
-                                        <div class="message">Implement theme selector with button interface and update styles for dark and light modes
-
-Adds button-based theme selector and updates styles
-
-Replaces dropdown theme selector with a button interface for improved usability. Updates styles for dark and light modes, removes the pink theme, and refines color palette. Simplifies theme application logic in JavaScript and ensures default theme is applied on load.
-
-Improves design consistency and user experience.</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">JayNightmare/GitHub-Portfolio</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#890acc4</div>
-                                        <div class="message">Add search functionality and input field to portfolio
-
-Adds repository search functionality
-
-Introduces a search input field to filter repositories dynamically. Implements client-side search logic to match repository names and descriptions. Updates styles for the search bar and header layout for better usability.
-
-Refines theme colors and gradients for improved UI consistency.</div>
+                                        <div class="sha">#59de5f3</div>
+                                        <div class="message">Create README.md</div>
                                     </div>
                                 </div>
                             </section>
@@ -2660,7 +3194,7 @@ Refines theme colors and gradients for improved UI consistency.</div>
                       branch
                                         <span class="code">main</span>
                                         in
-                                        <span class="repo">JayNightmare/GitHub-Portfolio</span>
+                                        <span class="repo">Nexus-Scripture/.github</span>
                                     </div>
                                 </div>
                             </section>
@@ -2674,7 +3208,27 @@ Refines theme colors and gradients for improved UI consistency.</div>
                                     <div class="content">
                                         Created new
                       repository
+                                        <span class="repo">Nexus-Scripture/.github</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
                                         <span class="repo">JayNightmare/GitHub-Portfolio</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#7f37956</div>
+                                        <div class="message">Update footer copyright year to 2025 and add README.md with project details and features</div>
                                     </div>
                                 </div>
                             </section>
@@ -2809,7 +3363,7 @@ Refines theme colors and gradients for improved UI consistency.</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 9 May 2025, 13:02:34 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 9 May 2025, 14:09:36 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
