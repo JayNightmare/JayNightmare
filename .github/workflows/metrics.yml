@@ -21,7 +21,7 @@ jobs:
           # Options
           user: JayNightmare
           template: classic
-          base: header, activity, community, repositories, metadata
+          base: ""
           config_timezone: Europe/London
 
           # Achievements
@@ -33,6 +33,7 @@ jobs:
           # Leet Code
           plugin_leetcode: yes
           plugin_leetcode_sections: solved, skills, recent
+          plugin_leetcode_user: JayNightmar3
 
           # 16 Personalities
           plugin_16personalities: yes
