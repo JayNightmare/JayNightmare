@@ -19,6 +19,9 @@
      <a href="https://jaynightmare.github.io/SDP-Website" target="_blank" rel="noopener">
        <img src="./images/CKD.gif" title="<3">
      </a>
+     <a href="https://jaynightmare.github.io/GitHub-Portfolio-Viewer/" target="_blank" rel="noopener">
+       <img src="./images/GPV.gif" title="<3">
+     </a>
   </div>
 </p>
 
