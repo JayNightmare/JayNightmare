@@ -34,12 +34,20 @@
   </div>
 </p>
 
-Welcome to my GitHub profile! I'm a passionate developer with a love for creating innovative solutions and exploring new technologies. Here's a little bit about me:
+<p align="center">
+  <h3 align="center">Github Views:</h3>
+  <div align="center">
+    <img src="https://komarev.com/ghpvc/?username=jaynightmare&style=flat-square" title="<3">
+  </div>
+</p>
 
 <div align="center">
 
 ## 🚀 About Me
 </div>
+
+Welcome to my GitHub profile! I'm a passionate developer with a love for creating innovative solutions and exploring new technologies. Here's a little bit about me:
+
 
 - 🌱 I’m currently learning advanced web development and cloud computing.
 - 👯 I’m looking to collaborate on open-source projects and interesting coding challenges.
@@ -112,10 +120,3 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for creatin
 </p>
 
 ---
-
-<p align="center">
-  <h3 align="center">Github Views:</h3>
-  <div align="center">
-    <img src="https://komarev.com/ghpvc/?username=jaynightmare&style=flat-square" title="<3">
-  </div>
-</p>
