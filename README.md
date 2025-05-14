@@ -28,10 +28,10 @@
 <p align="center">
   <h3 align="center">Vist my orgs:</h3>
   <div align="center">
-    <a href="https://github.com/Nexus-Scripture" target="_blank" rel="noopener">
+    <a href="https://github.com/Augmented-Perception" target="_blank" rel="noopener">
       <img src="./images/AP.png" width="64" title="<3">
     </a>
-    <a href="https://github.com/Augmented-Perception" target="_blank" rel="noopener">
+    <a href="https://github.com/Nexus-Scripture" target="_blank" rel="noopener">
       <img src="./images/NexusScript.png" width="64" title="<3">
     </a>
   </div>
