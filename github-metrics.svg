@@ -34,14 +34,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="199.32626865938445" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="199.32626865938445" y="0" width="79.7334580198572" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="279.05972667924163" y="0" width="52.61954037149738" height="8" fill="#DA5B0B"/>
-                    <rect mask="url(#languages-bar)" x="331.67926705073904" y="0" width="42.3216158728562" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="374.0008829235952" y="0" width="30.536804577182473" height="8" fill="#A97BFF"/>
-                    <rect mask="url(#languages-bar)" x="404.53768750077774" y="0" width="21.53462565914768" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="426.0723131599254" y="0" width="18.376643849336574" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="444.4489570092619" y="0" width="15.551042990738065" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="199.32494382243016" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="199.32494382243016" y="0" width="79.73386325375297" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="279.05880707618314" y="0" width="52.61980780278492" height="8" fill="#DA5B0B"/>
+                    <rect mask="url(#languages-bar)" x="331.678614878968" y="0" width="42.32183096641543" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="374.00044584538347" y="0" width="30.536959776123926" height="8" fill="#A97BFF"/>
+                    <rect mask="url(#languages-bar)" x="404.53740562150745" y="0" width="21.534735105802405" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="426.0721407273098" y="0" width="18.37673724600045" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="444.44887797331023" y="0" width="15.551122026689734" height="8" fill="#663399"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -2148,7 +2148,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>JayNightmare/Typing-Animation-Website</span>
-                                        <span>starred 20 days ago</span>
+                                        <span>starred 21 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2202,7 +2202,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>JayNightmare/GitHub-Portfolio-Viewer</span>
-                                        <span>starred 24 days ago</span>
+                                        <span>starred 25 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">View your github portfolio!</div>
