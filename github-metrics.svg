@@ -2628,8 +2628,8 @@ Enhances the application with dark mode functionality using a toggle feature. Up
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge all">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="11.76312849162011 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">128</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="12.130726256983241 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">132</text>
                                     <text x="60" y="80" dominant-baseline="central" class="secondary">/3580</text>
                                 </svg>
                                 <span class="title">All</span>
@@ -2637,8 +2637,8 @@ Enhances the application with dark mode functionality using a toggle feature. Up
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge easy">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="23.179545454545455 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">62</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="24.675 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">66</text>
                                     <text x="60" y="80" dominant-baseline="central" class="secondary">/880</text>
                                 </svg>
                                 <span class="title">Easy</span>
@@ -2696,7 +2696,7 @@ Enhances the application with dark mode functionality using a toggle feature. Up
                             <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                         </svg>
                         <div class="infos">
-                            <div class="title">Duplicate Emails</div>
+                            <div class="title">Valid Phone Numbers</div>
                             <div class="date">12 Jun 2025</div>
                         </div>
                     </div>
@@ -2705,7 +2705,7 @@ Enhances the application with dark mode functionality using a toggle feature. Up
                             <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                         </svg>
                         <div class="infos">
-                            <div class="title">Employees Earning More Than Their Managers</div>
+                            <div class="title">Number of 1 Bits</div>
                             <div class="date">12 Jun 2025</div>
                         </div>
                     </div>
