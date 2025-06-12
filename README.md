@@ -15,13 +15,30 @@
     </a>
     <a href="https://jaynightmare.github.io/TALE-FYP" target="_blank" rel="noopener">
        <img src="./images/TALE.gif" title="<3">
-     </a>
-     <a href="https://jaynightmare.github.io/SDP-Website" target="_blank" rel="noopener">
-       <img src="./images/CKD.gif" title="<3">
-     </a>
-     <a href="https://jaynightmare.github.io/GitHub-Portfolio-Viewer/" target="_blank" rel="noopener">
-       <img src="./images/GPV.gif" title="<3">
-     </a>
+    </a>
+  </div>
+  <div align="center">
+    <a href="https://jaynightmare.github.io/SDP-Website" target="_blank" rel="noopener">
+      <img src="./images/CKD.gif" title="<3">
+    </a>
+    <a href="https://jaynightmare.github.io/GitHub-Portfolio-Viewer/" target="_blank" rel="noopener">
+      <img src="./images/GPV.gif" title="<3">
+    </a>
+    <a href="https://jaynightmare.github.io/GitScore-Copilot/" target="_blank" rel="noopener">
+      <img src="./images/GitScore.gif" title="<3">
+    </a>
+  </div>
+  <div align="center">
+    <a href="https://jaynightmare.github.io/Typing-Animation-Website/" target="_blank" rel="noopener">
+      <img src="./images/TAG.gif" title="<3">
+    </a>
+    <a href="https://jaynightmare.github.io/Pub-Restock-Manager/" target="_blank" rel="noopener">
+      <img src="./images/Pub Manager.gif" title="<3">
+    </a>
+    <!-- <a href="" target="_blank" rel="noopener">
+      <img src="./images/" title="<3">
+    </a>
+    -->
   </div>
 </p>
 
