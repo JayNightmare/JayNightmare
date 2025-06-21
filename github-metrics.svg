@@ -34,14 +34,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="190.38253783541685" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="190.38253783541685" y="0" width="91.0405549232732" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="281.42309275869" y="0" width="49.231561326751184" height="8" fill="#DA5B0B"/>
-                    <rect mask="url(#languages-bar)" x="330.6546540854412" y="0" width="47.083135682472225" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="377.73778976791345" y="0" width="28.958189074849674" height="8" fill="#A97BFF"/>
-                    <rect mask="url(#languages-bar)" x="406.69597884276317" y="0" width="20.14809016388201" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="426.84406900664516" y="0" width="17.19343921024701" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="444.0375082168922" y="0" width="15.962491783107826" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="190.4050677537134" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="190.4050677537134" y="0" width="92.00406550001232" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="282.4091332537257" y="0" width="48.95972151357528" height="8" fill="#DA5B0B"/>
+                    <rect mask="url(#languages-bar)" x="331.368854767301" y="0" width="46.82315873957759" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="378.1920135068786" y="0" width="28.798291876875943" height="8" fill="#A97BFF"/>
+                    <rect mask="url(#languages-bar)" x="406.9903053837545" y="0" width="20.036839313443824" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="427.02714469719837" y="0" width="17.098502930007097" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="444.12564762720547" y="0" width="15.874352372794544" height="8" fill="#663399"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -2168,7 +2168,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>JayNightmare/Augmented-Control-Center</span>
-                                        <span>starred 17 hours ago</span>
+                                        <span>starred 18 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Desktop Dashboard for Augmented Perception (AP) Glasses</div>
