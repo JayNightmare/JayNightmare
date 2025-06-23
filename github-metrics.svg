@@ -34,14 +34,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="190.40106263008119" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="190.40106263008119" y="0" width="92.01180620371946" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="282.4128688338007" y="0" width="48.95869165791034" height="8" fill="#DA5B0B"/>
-                    <rect mask="url(#languages-bar)" x="331.371560491711" y="0" width="46.82217382598356" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="378.1937343176946" y="0" width="28.797686111910103" height="8" fill="#A97BFF"/>
-                    <rect mask="url(#languages-bar)" x="406.99142042960466" y="0" width="20.036417843471433" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="427.02783827307604" y="0" width="17.098143267215722" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="444.12598154029183" y="0" width="15.874018459708173" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="192.42149366404075" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="192.42149366404075" y="0" width="87.24818306137827" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="279.66967672541904" y="0" width="49.714957586137864" height="8" fill="#DA5B0B"/>
+                    <rect mask="url(#languages-bar)" x="329.3846343115569" y="0" width="47.54543691882843" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="376.9300712303853" y="0" width="29.242524568182656" height="8" fill="#A97BFF"/>
+                    <rect mask="url(#languages-bar)" x="406.172595798568" y="0" width="20.34592080659441" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="426.5185166051624" y="0" width="17.36225864185235" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="443.88077524701475" y="0" width="16.119224752985264" height="8" fill="#663399"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -2152,9 +2152,9 @@
                                 <div class="field infos">
                                     <div class="language">
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                            <path fill="#f1e05a" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                            <path fill="#e34c26" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                         </svg>
-                                        JavaScript
+                                        HTML
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -2198,7 +2198,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>FortAwesome/Font-Awesome</span>
-                                        <span>starred 13 days ago</span>
+                                        <span>starred 14 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The iconic SVG, font, and CSS toolkit</div>
@@ -2251,7 +2251,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>simple-icons/simple-icons</span>
-                                        <span>starred 13 days ago</span>
+                                        <span>starred 14 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">SVG icons for popular brands</div>
