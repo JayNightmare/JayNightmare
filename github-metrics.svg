@@ -34,14 +34,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="181.41827110064824" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="181.41827110064824" y="0" width="96.59001538937355" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="278.0082864900218" y="0" width="46.710974123076404" height="8" fill="#DA5B0B"/>
-                    <rect mask="url(#languages-bar)" x="324.71926061309824" y="0" width="44.67254487218979" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="369.39180548528805" y="0" width="27.475570225140373" height="8" fill="#A97BFF"/>
-                    <rect mask="url(#languages-bar)" x="396.8673757104284" y="0" width="26.88831596194786" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="423.75569167237626" y="0" width="19.11653607790645" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="442.8722277502827" y="0" width="17.12777224971732" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="181.2273678030107" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="181.2273678030107" y="0" width="96.94061293482422" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="278.16798073783497" y="0" width="46.66182097581148" height="8" fill="#DA5B0B"/>
+                    <rect mask="url(#languages-bar)" x="324.8298017136464" y="0" width="44.62553672864271" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="369.45533844228913" y="0" width="27.44665815951088" height="8" fill="#A97BFF"/>
+                    <rect mask="url(#languages-bar)" x="396.9019966018" y="0" width="26.86002185378602" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="423.76201845558603" y="0" width="19.09642007881474" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="442.8584385344008" y="0" width="17.14156146559925" height="8" fill="#663399"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -118,12 +118,12 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 29 commits)</small>
+                    <small class="h-details">(computed from last 30 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 35.0 characters per line of code written</li>
+                        <li>Has approximately 34.6 characters per line of code written</li>
                         <li>Mostly pushes code around 20:00</li>
                         <li>Mostly active on Monday</li>
                     </ul>
@@ -2400,6 +2400,28 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
+                                        <div class="sha">#09317b8</div>
+                                        <div class="message">Adds responsive mobile navigation menu
+
+Introduces a mobile-friendly navigation menu with a hamburger button, sidebar, and overlay. Implements state management for menu toggling, body scroll locking, and menu auto-close on navigation or logout. Updates styles and structure to ensure compatibility across devices.</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">JayNightmare/Digital-Perception</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
                                         <div class="sha">#3984a3c</div>
                                         <div class="message">feat: Enhance environment variable validation and parsing in Firebase configuration</div>
                                     </div>
@@ -2464,35 +2486,6 @@
                                         <div class="message">Improve Firebase integration and project UI/UX
 
 Enhances Firebase initialization with emulator support and error handling for development environments. Updates project service to include Firestore connection tests and more detailed error messages. Refines project-related UI components with improved styling, accessibility, and debug tools for better development and user experience.</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">JayNightmare/Digital-Perception</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#7702bd5</div>
-                                        <div class="message">feat: Implement Admin Project Dashboard with CRUD functionality and GitHub sync
-
-- Added AdminProjectDashboard component for managing projects.
-- Integrated projectService for Firestore operations (create, read, update, delete).
-- Implemented GitHub repository import and sync functionality.
-- Added ErrorBoundary component for error handling in the application.
-- Created testFirestore.js for testing Firestore operations and GitHub import.
-- Updated serviceWorkerRegistration.js for improved service worker handling.
-- Refactored CSS styles in about.css and hire.css for consistency.
-- Added Firestore setup guide for project configuration.</div>
                                     </div>
                                 </div>
                             </section>
