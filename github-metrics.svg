@@ -34,14 +34,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="178.48177721989012" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="178.48177721989012" y="0" width="104.75041418881632" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="283.23219140870646" y="0" width="45.87234489843436" height="8" fill="#DA5B0B"/>
-                    <rect mask="url(#languages-bar)" x="329.10453630714085" y="0" width="41.44834083079768" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="370.55287713793854" y="0" width="26.982285368913747" height="8" fill="#A97BFF"/>
-                    <rect mask="url(#languages-bar)" x="397.53516250685226" y="0" width="26.405574422289867" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="423.94073692914213" y="0" width="18.773325812442593" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="442.7140627415847" y="0" width="17.28593725841532" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="178.48221351844708" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="178.48221351844708" y="0" width="104.74954578149722" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="283.2317592999443" y="0" width="45.87245703334358" height="8" fill="#DA5B0B"/>
+                    <rect mask="url(#languages-bar)" x="329.1042163332879" y="0" width="41.448442151232605" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="370.5526584845205" y="0" width="26.982351327088047" height="8" fill="#A97BFF"/>
+                    <rect mask="url(#languages-bar)" x="397.5350098116086" y="0" width="26.40563897069473" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="423.94064878230324" y="0" width="18.773371703822036" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="442.7140204861253" y="0" width="17.285979513874672" height="8" fill="#663399"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -118,13 +118,13 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 36 commits)</small>
+                    <small class="h-details">(computed from last 38 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
                         <li>Has approximately 34.0 characters per line of code written</li>
-                        <li>Mostly pushes code around 03:00</li>
+                        <li>Mostly pushes code around 20:00</li>
                         <li>Mostly active on Friday</li>
                     </ul>
                 </div>
@@ -2386,14 +2386,14 @@
                                 <div class="details">
                                     <div>on branch <span class="code">prod</span></div>
                                     <div class="commit">
-                                        <div class="sha">#e731bef</div>
-                                        <div class="message">Merge pull request #6 from JayNightmare/main
+                                        <div class="sha">#c51064e</div>
+                                        <div class="message">Merge pull request #7 from JayNightmare/main
 
-Refactor API key authentication middleware application for clarity</div>
+FIX: Refactor API key authentication middleware to simplify route pro…</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#5b5f351</div>
-                                        <div class="message">Refactor API key authentication middleware application for clarity</div>
+                                        <div class="sha">#236630c</div>
+                                        <div class="message">FIX: Refactor API key authentication middleware to simplify route protection</div>
                                     </div>
                                 </div>
                             </section>
@@ -2406,12 +2406,12 @@ Refactor API key authentication middleware application for clarity</div>
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#6 Refactor API key authentication middleware application for clarity</span>
+                                        <span class="issue">#7 FIX: Refactor API key authentication middleware to simplify route pro…</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">JayNightmare/DisTrack-Endpoint-Server</span></div>
-                                    <div>1 file changed <span class="code">++4 --4</span></div>
+                                    <div>1 file changed <span class="code">++3 --3</span></div>
                                 </div>
                             </section>
                         </div>
@@ -2423,12 +2423,12 @@ Refactor API key authentication middleware application for clarity</div>
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#6 Refactor API key authentication middleware application for clarity</span>
+                                        <span class="issue">#7 FIX: Refactor API key authentication middleware to simplify route pro…</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">JayNightmare/DisTrack-Endpoint-Server</span></div>
-                                    <div>1 file changed <span class="code">++4 --4</span></div>
+                                    <div>1 file changed <span class="code">++3 --3</span></div>
                                 </div>
                             </section>
                         </div>
@@ -2446,8 +2446,8 @@ Refactor API key authentication middleware application for clarity</div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#5b5f351</div>
-                                        <div class="message">Refactor API key authentication middleware application for clarity</div>
+                                        <div class="sha">#236630c</div>
+                                        <div class="message">FIX: Refactor API key authentication middleware to simplify route protection</div>
                                     </div>
                                 </div>
                             </section>
@@ -2466,14 +2466,14 @@ Refactor API key authentication middleware application for clarity</div>
                                 <div class="details">
                                     <div>on branch <span class="code">prod</span></div>
                                     <div class="commit">
-                                        <div class="sha">#b74a0a0</div>
-                                        <div class="message">Merge pull request #5 from JayNightmare/main
+                                        <div class="sha">#e731bef</div>
+                                        <div class="message">Merge pull request #6 from JayNightmare/main
 
-Update package-lock.json to correct project name and add node-cron de…</div>
+Refactor API key authentication middleware application for clarity</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#d7b94f1</div>
-                                        <div class="message">Update package-lock.json to correct project name and add node-cron dependency</div>
+                                        <div class="sha">#5b5f351</div>
+                                        <div class="message">Refactor API key authentication middleware application for clarity</div>
                                     </div>
                                 </div>
                             </section>
