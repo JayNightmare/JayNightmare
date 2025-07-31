@@ -10,7 +10,7 @@
     <a href="https://nexusgit.info" target="_blank" rel="noopener">
       <img src="./images/NexusGit.gif" title="<3">
     </a>
-    <a href="https://distrack-website.vercel.app" target="_blank" rel="noopener">
+    <a href="https://jaynightmare.github.io/DisTrack-Website/" target="_blank" rel="noopener">
       <img src="./images/DisTrack.gif" title="<3">
     </a>
     <a href="https://jaynightmare.github.io/TALE-FYP" target="_blank" rel="noopener">
