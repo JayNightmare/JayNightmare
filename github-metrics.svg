@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2337" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2320" class="">
     <defs>
         <style/>
     </defs>
@@ -2396,6 +2396,28 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
+                                        <div class="sha">#4ebcc53</div>
+                                        <div class="message">Add new dependencies and improve navbar and FAQ functionality
+
+Integrates `react-redux` and `styled-components` into the project. Enhances the navbar with a mobile-friendly design, including a hamburger menu and scroll-lock functionality. Updates FAQ page with interactive links and additional questions, improving user experience. Adjusts styles for consistency and responsiveness. Fixes minor text inconsistencies and improves layout across pages.</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">JayNightmare/DisTrack-Website</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
                                         <div class="sha">#c1cd112</div>
                                         <div class="message">Update routes, improve FAQ, and integrate Framer Motion
 
@@ -2464,32 +2486,6 @@ Adds Framer Motion and its dependencies to the project.</div>
                                     <div class="commit">
                                         <div class="sha">#8874805</div>
                                         <div class="message">feat: enhance leaderboard functionality with filter-based data fetching and trend calculations</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">JayNightmare/DisTrack-Endpoint-Server</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">prod</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#b2e126c</div>
-                                        <div class="message">Merge pull request #9 from JayNightmare/main
-
-Increase default limit for leaderboard queries to 50</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#49e80b3</div>
-                                        <div class="message">Increase default limit for leaderboard queries to 50</div>
                                     </div>
                                 </div>
                             </section>
