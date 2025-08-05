@@ -34,14 +34,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="169.29290746848517" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="169.29290746848517" y="0" width="122.41359183256728" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="291.7064993010525" y="0" width="43.42200552389828" height="8" fill="#DA5B0B"/>
-                    <rect mask="url(#languages-bar)" x="335.1285048249507" y="0" width="40.155955111167806" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="375.28445993611854" y="0" width="25.54098655585318" height="8" fill="#A97BFF"/>
-                    <rect mask="url(#languages-bar)" x="400.8254464919717" y="0" width="24.995081480247393" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="425.82052797221917" y="0" width="17.770520755690573" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="443.5910487279097" y="0" width="16.408951272090313" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="169.2599351448642" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="169.2599351448642" y="0" width="122.47934183040584" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="291.73927697527006" y="0" width="43.413548439429626" height="8" fill="#DA5B0B"/>
+                    <rect mask="url(#languages-bar)" x="335.1528254146997" y="0" width="40.14813413882446" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="375.30095955352414" y="0" width="25.536012067040204" height="8" fill="#A97BFF"/>
+                    <rect mask="url(#languages-bar)" x="400.8369716205643" y="0" width="24.99021331460582" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="425.8271849351702" y="0" width="17.76705968121302" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="443.59424461638315" y="0" width="16.40575538361681" height="8" fill="#663399"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -118,7 +118,7 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 109 commits)</small>
+                    <small class="h-details">(computed from last 113 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
@@ -2381,8 +2381,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#a699bef</div>
-                                        <div class="message">Refactor Discord authentication service to include API key in requests and improve state management</div>
+                                        <div class="sha">#66ba492</div>
+                                        <div class="message">Remove unused hasProcessed state and related logic from DashboardCallback</div>
                                     </div>
                                 </div>
                             </section>
@@ -2401,14 +2401,14 @@
                                 <div class="details">
                                     <div>on branch <span class="code">prod</span></div>
                                     <div class="commit">
-                                        <div class="sha">#bd2f292</div>
-                                        <div class="message">Merge pull request #29 from JayNightmare/main
+                                        <div class="sha">#f0d44bf</div>
+                                        <div class="message">Merge pull request #30 from JayNightmare/main
 
-Fix user lookup in Discord OAuth strategy to use correct field name</div>
+Update user lookup in Discord authentication to use 'userId' field in…</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#716f447</div>
-                                        <div class="message">Fix user lookup in Discord OAuth strategy to use correct field name</div>
+                                        <div class="sha">#6e801bb</div>
+                                        <div class="message">Update user lookup in Discord authentication to use 'userId' field instead of 'discordId'</div>
                                     </div>
                                 </div>
                             </section>
@@ -2421,12 +2421,12 @@ Fix user lookup in Discord OAuth strategy to use correct field name</div>
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#29 Fix user lookup in Discord OAuth strategy to use correct field name</span>
+                                        <span class="issue">#30 Update user lookup in Discord authentication to use 'userId' field in…</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">JayNightmare/DisTrack-Endpoint-Server</span></div>
-                                    <div>1 file changed <span class="code">++1 --1</span></div>
+                                    <div>2 files changed <span class="code">++5 --3</span></div>
                                 </div>
                             </section>
                         </div>
@@ -2438,12 +2438,12 @@ Fix user lookup in Discord OAuth strategy to use correct field name</div>
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#29 Fix user lookup in Discord OAuth strategy to use correct field name</span>
+                                        <span class="issue">#30 Update user lookup in Discord authentication to use 'userId' field in…</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">JayNightmare/DisTrack-Endpoint-Server</span></div>
-                                    <div>1 file changed <span class="code">++1 --1</span></div>
+                                    <div>2 files changed <span class="code">++5 --3</span></div>
                                 </div>
                             </section>
                         </div>
@@ -2461,8 +2461,8 @@ Fix user lookup in Discord OAuth strategy to use correct field name</div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#716f447</div>
-                                        <div class="message">Fix user lookup in Discord OAuth strategy to use correct field name</div>
+                                        <div class="sha">#6e801bb</div>
+                                        <div class="message">Update user lookup in Discord authentication to use 'userId' field instead of 'discordId'</div>
                                     </div>
                                 </div>
                             </section>
