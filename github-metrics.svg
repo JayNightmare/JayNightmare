@@ -34,14 +34,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="169.10198340510183" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="169.10198340510183" y="0" width="122.79431285481277" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="291.8962962599146" y="0" width="43.373035334545136" height="8" fill="#DA5B0B"/>
-                    <rect mask="url(#languages-bar)" x="335.26933159445974" y="0" width="40.11066828708576" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="375.3799998815455" y="0" width="25.512182106753798" height="8" fill="#A97BFF"/>
-                    <rect mask="url(#languages-bar)" x="400.8921819882993" y="0" width="24.96689268845353" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="425.8590746767528" y="0" width="17.750479632398115" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="443.6095543091509" y="0" width="16.39044569084906" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="168.90779594687737" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="168.90779594687737" y="0" width="123.22006601810318" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="292.1278619649806" y="0" width="43.31328824221679" height="8" fill="#DA5B0B"/>
+                    <rect mask="url(#languages-bar)" x="335.4411502071974" y="0" width="40.05541516073628" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="375.4965653679336" y="0" width="25.477038642892612" height="8" fill="#A97BFF"/>
+                    <rect mask="url(#languages-bar)" x="400.97360401082625" y="0" width="24.932500370021053" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="425.9061043808473" y="0" width="17.72602804543195" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="443.63213242627927" y="0" width="16.367867573720744" height="8" fill="#663399"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -2386,6 +2386,26 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
+                                        <div class="sha">#2560a8d</div>
+                                        <div class="message">Refactor code structure for improved readability and maintainability</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">JayNightmare/DisTrack-Website</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
                                         <div class="sha">#4903068</div>
                                         <div class="message">Fix isPublic initialization to default to false if not explicitly set</div>
                                     </div>
@@ -2448,26 +2468,6 @@
                                     <div class="commit">
                                         <div class="sha">#a961c55</div>
                                         <div class="message">Add display name initialization to EditProfileModal form data</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">JayNightmare/DisTrack-Website</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#b5faebe</div>
-                                        <div class="message">Add display name input field to EditProfileModal</div>
                                     </div>
                                 </div>
                             </section>
