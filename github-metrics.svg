@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2301" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2318" class="">
     <defs>
         <style/>
     </defs>
@@ -2394,14 +2394,14 @@
                                 <div class="details">
                                     <div>on branch <span class="code">prod</span></div>
                                     <div class="commit">
-                                        <div class="sha">#552c95b</div>
-                                        <div class="message">Merge pull request #10 from JayNightmare/main
+                                        <div class="sha">#a5796d1</div>
+                                        <div class="message">Merge pull request #11 from JayNightmare/main
 
-Enhance embed image generation with user avatar fetching and improved…</div>
+Update embed image generation to output PNG format and enhance error …</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#f8583c3</div>
-                                        <div class="message">Enhance embed image generation with user avatar fetching and improved SVG layout</div>
+                                        <div class="sha">#1f05902</div>
+                                        <div class="message">Update embed image generation to output PNG format and enhance error handling</div>
                                     </div>
                                 </div>
                             </section>
@@ -2414,12 +2414,12 @@ Enhance embed image generation with user avatar fetching and improved…</div>
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#10 Enhance embed image generation with user avatar fetching and improved…</span>
+                                        <span class="issue">#11 Update embed image generation to output PNG format and enhance error …</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">JayNightmare/DisTrack-Frontend-Endpoint-Server</span></div>
-                                    <div>1 file changed <span class="code">++125 --33</span></div>
+                                    <div>1 file changed <span class="code">++11 --5</span></div>
                                 </div>
                             </section>
                         </div>
@@ -2431,12 +2431,12 @@ Enhance embed image generation with user avatar fetching and improved…</div>
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#10 Enhance embed image generation with user avatar fetching and improved…</span>
+                                        <span class="issue">#11 Update embed image generation to output PNG format and enhance error …</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">JayNightmare/DisTrack-Frontend-Endpoint-Server</span></div>
-                                    <div>1 file changed <span class="code">++125 --33</span></div>
+                                    <div>1 file changed <span class="code">++11 --5</span></div>
                                 </div>
                             </section>
                         </div>
@@ -2454,8 +2454,8 @@ Enhance embed image generation with user avatar fetching and improved…</div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#f8583c3</div>
-                                        <div class="message">Enhance embed image generation with user avatar fetching and improved SVG layout</div>
+                                        <div class="sha">#1f05902</div>
+                                        <div class="message">Update embed image generation to output PNG format and enhance error handling</div>
                                     </div>
                                 </div>
                             </section>
@@ -2467,15 +2467,21 @@ Enhance embed image generation with user avatar fetching and improved…</div>
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">JayNightmare/DisTrack-Website</span>
+                                        Pushed 2 commits in
+                                        <span class="repo">JayNightmare/DisTrack-Frontend-Endpoint-Server</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
+                                    <div>on branch <span class="code">prod</span></div>
                                     <div class="commit">
-                                        <div class="sha">#227b6f2</div>
-                                        <div class="message">Update Open Graph description and enhance contact descriptions for clarity</div>
+                                        <div class="sha">#552c95b</div>
+                                        <div class="message">Merge pull request #10 from JayNightmare/main
+
+Enhance embed image generation with user avatar fetching and improved…</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f8583c3</div>
+                                        <div class="message">Enhance embed image generation with user avatar fetching and improved SVG layout</div>
                                     </div>
                                 </div>
                             </section>
