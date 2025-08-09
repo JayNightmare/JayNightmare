@@ -122,7 +122,7 @@
                 </h2>
                 <div class="row">
                     <ul class="facts">
-                        <li>Mostly pushes code around 03:00</li>
+                        <li>Mostly pushes code around 16:00</li>
                         <li>Mostly active on Tuesday</li>
                     </ul>
                 </div>
@@ -2393,14 +2393,18 @@
                                 <div class="details">
                                     <div>on branch <span class="code">prod</span></div>
                                     <div class="commit">
-                                        <div class="sha">#a5796d1</div>
-                                        <div class="message">Merge pull request #11 from JayNightmare/main
+                                        <div class="sha">#297b652</div>
+                                        <div class="message">Merge pull request #14 from JayNightmare/main
 
-Update embed image generation to output PNG format and enhance error …</div>
+Add leaderboard functionality to retrieve user position based on codi…</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#1f05902</div>
-                                        <div class="message">Update embed image generation to output PNG format and enhance error handling</div>
+                                        <div class="sha">#ebf658c</div>
+                                        <div class="message">Add leaderboard functionality to retrieve user position based on coding time
+
+- Implemented `getLeaderboardPosition` function in `leaderboard.js`
+- Fetches all users sorted by total coding time in descending order
+- Returns the user's position in the leaderboard or null if not found</div>
                                     </div>
                                 </div>
                             </section>
@@ -2413,12 +2417,12 @@ Update embed image generation to output PNG format and enhance error …</div>
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#11 Update embed image generation to output PNG format and enhance error …</span>
+                                        <span class="issue">#14 Add leaderboard functionality to retrieve user position based on codi…</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">JayNightmare/DisTrack-Frontend-Endpoint-Server</span></div>
-                                    <div>1 file changed <span class="code">++11 --5</span></div>
+                                    <div>5 files changed <span class="code">++347 --282</span></div>
                                 </div>
                             </section>
                         </div>
@@ -2430,12 +2434,12 @@ Update embed image generation to output PNG format and enhance error …</div>
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#11 Update embed image generation to output PNG format and enhance error …</span>
+                                        <span class="issue">#14 Add leaderboard functionality to retrieve user position based on codi…</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">JayNightmare/DisTrack-Frontend-Endpoint-Server</span></div>
-                                    <div>1 file changed <span class="code">++11 --5</span></div>
+                                    <div>5 files changed <span class="code">++347 --282</span></div>
                                 </div>
                             </section>
                         </div>
@@ -2453,8 +2457,12 @@ Update embed image generation to output PNG format and enhance error …</div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#1f05902</div>
-                                        <div class="message">Update embed image generation to output PNG format and enhance error handling</div>
+                                        <div class="sha">#ebf658c</div>
+                                        <div class="message">Add leaderboard functionality to retrieve user position based on coding time
+
+- Implemented `getLeaderboardPosition` function in `leaderboard.js`
+- Fetches all users sorted by total coding time in descending order
+- Returns the user's position in the leaderboard or null if not found</div>
                                     </div>
                                 </div>
                             </section>
@@ -2473,14 +2481,14 @@ Update embed image generation to output PNG format and enhance error …</div>
                                 <div class="details">
                                     <div>on branch <span class="code">prod</span></div>
                                     <div class="commit">
-                                        <div class="sha">#552c95b</div>
-                                        <div class="message">Merge pull request #10 from JayNightmare/main
+                                        <div class="sha">#a5796d1</div>
+                                        <div class="message">Merge pull request #11 from JayNightmare/main
 
-Enhance embed image generation with user avatar fetching and improved…</div>
+Update embed image generation to output PNG format and enhance error …</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#f8583c3</div>
-                                        <div class="message">Enhance embed image generation with user avatar fetching and improved SVG layout</div>
+                                        <div class="sha">#1f05902</div>
+                                        <div class="message">Update embed image generation to output PNG format and enhance error handling</div>
                                     </div>
                                 </div>
                             </section>
