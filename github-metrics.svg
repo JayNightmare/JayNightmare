@@ -34,14 +34,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="168.25622498217376" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="168.25622498217376" y="0" width="124.88833752946721" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="293.14456251164097" y="0" width="43.05096571300509" height="8" fill="#DA5B0B"/>
-                    <rect mask="url(#languages-bar)" x="336.19552822464607" y="0" width="39.812823608812785" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="376.00835183345885" y="0" width="25.32273954705269" height="8" fill="#A97BFF"/>
-                    <rect mask="url(#languages-bar)" x="401.3310913805115" y="0" width="24.7814992149007" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="426.1125905954122" y="0" width="17.618672157701795" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="443.731262753114" y="0" width="16.268737246885948" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="168.26628581588963" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="168.26628581588963" y="0" width="124.86829962173029" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="293.13458543761993" y="0" width="43.05353993340847" height="8" fill="#DA5B0B"/>
+                    <rect mask="url(#languages-bar)" x="336.1881253710284" y="0" width="39.81520420541852" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="376.00332957644696" y="0" width="25.324253713151684" height="8" fill="#A97BFF"/>
+                    <rect mask="url(#languages-bar)" x="401.32758328959864" y="0" width="24.782981017686044" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="426.1105643072847" y="0" width="17.61972566125503" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="443.73028996853975" y="0" width="16.269710031460342" height="8" fill="#663399"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -2152,7 +2152,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>JayNightmare/DisTrack-Discord-Bot-Management</span>
-                                        <span>starred 18 hours ago</span>
+                                        <span>starred 19 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Discord bot that manages the DisTrack community</div>
@@ -2205,7 +2205,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>JayNightmare/DisTrack-Frontend-Endpoint-Server</span>
-                                        <span>starred 18 hours ago</span>
+                                        <span>starred 19 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2253,7 +2253,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>JayNightmare/DisTrack-Backend-Endpoint-Server</span>
-                                        <span>starred 18 hours ago</span>
+                                        <span>starred 19 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Backend Endpoint for DisTrack</div>
