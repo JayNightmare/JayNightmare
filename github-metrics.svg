@@ -34,14 +34,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="168.27296957675847" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="168.27296957675847" y="0" width="124.85498774446363" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="293.12795732122214" y="0" width="43.05525007732754" height="8" fill="#DA5B0B"/>
-                    <rect mask="url(#languages-bar)" x="336.18320739854965" y="0" width="39.816785718331595" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="375.9999931168812" y="0" width="25.325259626220838" height="8" fill="#A97BFF"/>
-                    <rect mask="url(#languages-bar)" x="401.32525274310206" y="0" width="24.783965430683192" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="426.1092181737853" y="0" width="17.620425540213688" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="443.72964371399894" y="0" width="16.27035628600104" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="168.17250376876555" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="168.17250376876555" y="0" width="124.78044423781938" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="292.9529480065849" y="0" width="43.02954434159211" height="8" fill="#DA5B0B"/>
+                    <rect mask="url(#languages-bar)" x="335.98249234817706" y="0" width="40.06765218983944" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="376.05014453801647" y="0" width="25.31013941602084" height="8" fill="#A97BFF"/>
+                    <rect mask="url(#languages-bar)" x="401.36028395403736" y="0" width="24.76916839513717" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="426.1294523491745" y="0" width="17.60990542938704" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="443.73935777856155" y="0" width="16.260642221438463" height="8" fill="#663399"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -2122,10 +2122,10 @@
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
-                            <g transform="translate(-1.7, 6.547169811320755)">
+                            <g transform="translate(-1.7, 6.433962264150944)">
                                 <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.452830188679245 0,1.4528301886792452 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.4528301886792452 1.7,2.452830188679245 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.566037735849057 0,1.5660377358490567 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.5660377358490567 1.7,2.566037735849057 z"/>
                             </g>
                             <g transform="translate(-3.4, 8)">
                                 <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -2137,10 +2137,10 @@
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
-                            <g transform="translate(-6.8, 6.716981132075472)">
+                            <g transform="translate(-6.8, 6.60377358490566)">
                                 <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,5.283018867924528 0,4.283018867924528 z"/>
-                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,4.283018867924528 1.7,5.283018867924528 z"/>
+                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,5.39622641509434 0,4.39622641509434 z"/>
+                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,4.39622641509434 1.7,5.39622641509434 z"/>
                             </g>
                         </g>
                     </g>
@@ -2163,7 +2163,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>JayNightmare/DisTrack-Discord-Bot-Management</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Discord bot that manages the DisTrack community</div>
@@ -2216,7 +2216,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>JayNightmare/DisTrack-Frontend-Endpoint-Server</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2264,7 +2264,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>JayNightmare/DisTrack-Backend-Endpoint-Server</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Backend Endpoint for DisTrack</div>
@@ -2332,7 +2332,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                         </svg>
-                                        18.6k
+                                        18.7k
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
