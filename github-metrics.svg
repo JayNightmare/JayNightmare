@@ -2382,8 +2382,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">revamp-extension</span></div>
                                     <div class="commit">
-                                        <div class="sha">#40491f8</div>
-                                        <div class="message">Refactor Discord account linking process to use a 6-alphanumeric code; remove unused clearTokens command</div>
+                                        <div class="sha">#3ee9f0a</div>
+                                        <div class="message">Enhance Discord account linking process with improved error handling and logging; update user ID retrieval from API response</div>
                                     </div>
                                 </div>
                             </section>
@@ -2402,18 +2402,14 @@
                                 <div class="details">
                                     <div>on branch <span class="code">prod</span></div>
                                     <div class="commit">
-                                        <div class="sha">#914efa5</div>
-                                        <div class="message">Merge pull request #46 from JayNightmare/main
+                                        <div class="sha">#9b06197</div>
+                                        <div class="message">Merge pull request #47 from JayNightmare/main
 
-Removes unused extensionId field and related logic</div>
+Refactor extension link handling to improve code readability and main…</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#94076fc</div>
-                                        <div class="message">Removes unused extensionId field and related logic
-
-Simplifies user schema and POST /extension/link endpoint by removing
-the optional extensionId field and its handling. Improves code
-clarity and reduces unnecessary complexity in the linking process.</div>
+                                        <div class="sha">#a8c90da</div>
+                                        <div class="message">Refactor extension link handling to improve code readability and maintainability</div>
                                     </div>
                                 </div>
                             </section>
@@ -2426,12 +2422,12 @@ clarity and reduces unnecessary complexity in the linking process.</div>
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#46 Removes unused extensionId field and related logic</span>
+                                        <span class="issue">#47 Refactor extension link handling to improve code readability and main…</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">JayNightmare/DisTrack-Backend-Endpoint-Server</span></div>
-                                    <div>2 files changed <span class="code">++4 --9</span></div>
+                                    <div>1 file changed <span class="code">++7 --6</span></div>
                                 </div>
                             </section>
                         </div>
@@ -2443,12 +2439,12 @@ clarity and reduces unnecessary complexity in the linking process.</div>
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#46 Removes unused extensionId field and related logic</span>
+                                        <span class="issue">#47 Refactor extension link handling to improve code readability and main…</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">JayNightmare/DisTrack-Backend-Endpoint-Server</span></div>
-                                    <div>2 files changed <span class="code">++4 --9</span></div>
+                                    <div>1 file changed <span class="code">++7 --6</span></div>
                                 </div>
                             </section>
                         </div>
@@ -2466,12 +2462,8 @@ clarity and reduces unnecessary complexity in the linking process.</div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#94076fc</div>
-                                        <div class="message">Removes unused extensionId field and related logic
-
-Simplifies user schema and POST /extension/link endpoint by removing
-the optional extensionId field and its handling. Improves code
-clarity and reduces unnecessary complexity in the linking process.</div>
+                                        <div class="sha">#a8c90da</div>
+                                        <div class="message">Refactor extension link handling to improve code readability and maintainability</div>
                                     </div>
                                 </div>
                             </section>
