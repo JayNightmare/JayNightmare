@@ -34,14 +34,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="165.26656865397516" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="165.26656865397516" y="0" width="122.9880031395233" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="288.2545717934984" y="0" width="46.9285527476392" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="335.18312454113766" y="0" width="42.28601575592276" height="8" fill="#DA5B0B"/>
-                    <rect mask="url(#languages-bar)" x="377.4691402970604" y="0" width="24.872793112427804" height="8" fill="#A97BFF"/>
-                    <rect mask="url(#languages-bar)" x="402.3419334094882" y="0" width="24.341169794946538" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="426.68310320443476" y="0" width="17.30561524277154" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="443.9887184472063" y="0" width="16.01128155279369" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="163.96341142461023" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="163.96341142461023" y="0" width="123.96685443105576" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="287.93026585566594" y="0" width="46.522950234874195" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="334.45321609054014" y="0" width="41.92053859455248" height="8" fill="#DA5B0B"/>
+                    <rect mask="url(#languages-bar)" x="376.37375468509265" y="0" width="24.657818074946125" height="8" fill="#A97BFF"/>
+                    <rect mask="url(#languages-bar)" x="401.0315727600388" y="0" width="24.13078956682483" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="425.1623623268636" y="0" width="17.681594505710073" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="442.84395683257367" y="0" width="17.15604316742631" height="8" fill="#b07219"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -82,15 +82,15 @@
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#b07219" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                        </svg>
-                        Java
-                    </div>
-                    <div class="field center no-wrap language">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                             <path fill="#663399" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         CSS
+                    </div>
+                    <div class="field center no-wrap language">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill="#b07219" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                        </svg>
+                        Java
                     </div>
                 </div>
             </section>
@@ -2321,7 +2321,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                         </svg>
-                                        18.9k
+                                        19k
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
