@@ -118,13 +118,13 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 68 commits)</small>
+                    <small class="h-details">(computed from last 75 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
                         <li>Has approximately 34.2 characters per line of code written</li>
-                        <li>Mostly pushes code around 22:00</li>
+                        <li>Mostly pushes code around 23:00</li>
                         <li>Mostly active on Saturday</li>
                     </ul>
                 </div>
@@ -2400,8 +2400,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#94428b6</div>
-                                        <div class="message">fix: add label to time spent display in LanguageBars component for clarity</div>
+                                        <div class="sha">#727ae2a</div>
+                                        <div class="message">fix: add debug logging for incoming series and cell match information in Heatmap component</div>
                                     </div>
                                 </div>
                             </section>
@@ -2420,8 +2420,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#6c24d5c</div>
-                                        <div class="message">fix: format seconds display in LanguageBars component for better readability</div>
+                                        <div class="sha">#10bd47e</div>
+                                        <div class="message">fix: update Heatmap component to ensure date formatting as YYYY-MM-DD</div>
                                     </div>
                                 </div>
                             </section>
@@ -2440,8 +2440,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#923f2dc</div>
-                                        <div class="message">fix: update LanguageBars component to display raw seconds for each language</div>
+                                        <div class="sha">#5e6f4be</div>
+                                        <div class="message">fix: enhance heatmap logic to prioritize daily series data if available</div>
                                     </div>
                                 </div>
                             </section>
@@ -2460,8 +2460,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#aec75b6</div>
-                                        <div class="message">fix: add console log for language data in UserStats component for better debugging</div>
+                                        <div class="sha">#a12b052</div>
+                                        <div class="message">fix: refactor UserStats component to accept userStreaks prop and remove computeStreaks utility</div>
                                     </div>
                                 </div>
                             </section>
@@ -2480,8 +2480,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#0b2c4a0</div>
-                                        <div class="message">fix: convert hours to seconds in language totals for accurate data representation</div>
+                                        <div class="sha">#f345a25</div>
+                                        <div class="message">fix: update version in package.json and package-lock.json to 0.1.5; add hl-grid class for responsive layout in UserStats component</div>
                                     </div>
                                 </div>
                             </section>
