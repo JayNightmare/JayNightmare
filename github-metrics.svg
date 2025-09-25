@@ -34,14 +34,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="225.24853289847854" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="225.24853289847854" y="0" width="81.6480380465971" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="306.8965709450756" y="0" width="67.88490021129371" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="374.7814711563693" y="0" width="24.831031602754916" height="8" fill="#DA5B0B"/>
-                    <rect mask="url(#languages-bar)" x="399.6125027591242" y="0" width="18.304172143219905" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="417.91667490234414" y="0" width="14.60570594752648" height="8" fill="#A97BFF"/>
-                    <rect mask="url(#languages-bar)" x="432.5223808498706" y="0" width="14.305207233491341" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="446.82758808336195" y="0" width="13.17241191663802" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="225.2486446686994" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="225.2486446686994" y="0" width="81.64807856104186" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="306.89672322974127" y="0" width="67.88470564047564" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="374.7814288702169" y="0" width="24.83104392412212" height="8" fill="#DA5B0B"/>
+                    <rect mask="url(#languages-bar)" x="399.61247279433906" y="0" width="18.30418122590443" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="417.91665402024347" y="0" width="14.605713195000899" height="8" fill="#A97BFF"/>
+                    <rect mask="url(#languages-bar)" x="432.5223672152444" y="0" width="14.305214331855762" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="446.8275815471001" y="0" width="13.172418452899855" height="8" fill="#b07219"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -2213,7 +2213,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>JayNightmare/MoodMovie</span>
-                                        <span>starred 25 days ago</span>
+                                        <span>starred 26 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Gives movie suggestions based on your mood. Powered by AI</div>
