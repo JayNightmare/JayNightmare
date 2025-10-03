@@ -34,14 +34,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="253.70697476944795" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="253.70697476944795" y="0" width="68.78964928655073" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="322.49662405599867" y="0" width="64.56877937393028" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="387.065403429929" y="0" width="20.55409157019629" height="8" fill="#DA5B0B"/>
-                    <rect mask="url(#languages-bar)" x="407.61949500012526" y="0" width="15.190949800263779" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="422.81044480038906" y="0" width="14.195988626871488" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="437.00643342726056" y="0" width="12.089993774544308" height="8" fill="#A97BFF"/>
-                    <rect mask="url(#languages-bar)" x="449.0964272018049" y="0" width="10.903572798195153" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="253.79775478801946" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="253.79775478801946" y="0" width="68.80626186908155" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="322.604016657101" y="0" width="64.43528972115195" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="387.03930637825295" y="0" width="20.56144612091827" height="8" fill="#DA5B0B"/>
+                    <rect mask="url(#languages-bar)" x="407.60075249917116" y="0" width="15.196385341427906" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="422.7971378405991" y="0" width="14.201068156562615" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="436.99820599716173" y="0" width="12.094319748871104" height="8" fill="#A97BFF"/>
+                    <rect mask="url(#languages-bar)" x="449.09252574603283" y="0" width="10.90747425396717" height="8" fill="#b07219"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -174,7 +174,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="M10.896 2H8.75V.75a.75.75 0 00-1.5 0V2H5.104a.25.25 0 00-.177.427l2.896 2.896a.25.25 0 00.354 0l2.896-2.896A.25.25 0 0010.896 2zM8.75 15.25a.75.75 0 01-1.5 0V14H5.104a.25.25 0 01-.177-.427l2.896-2.896a.25.25 0 01.354 0l2.896 2.896a.25.25 0 01-.177.427H8.75v1.25zm-6.5-6.5a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM6 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 016 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM12 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 0112 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5z"/>
                             </svg>
-                            Average per day at ~6.39
+                            Average per day at ~6.40
                         </div>
                     </section>
                 </div>
@@ -2134,10 +2134,10 @@
                                 <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.2264150943396226 0,1.2264150943396226 z"/>
                                 <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.2264150943396226 1.7,2.2264150943396226 z"/>
                             </g>
-                            <g transform="translate(-5.1, 6.849056603773585)">
-                                <path fill="#30a14e" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.150943396226415 0,3.150943396226415 z"/>
-                                <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.150943396226415 1.7,4.150943396226415 z"/>
+                            <g transform="translate(-5.1, 6.622641509433962)">
+                                <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.377358490566038 0,3.3773584905660377 z"/>
+                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.3773584905660377 1.7,4.377358490566038 z"/>
                             </g>
                             <g transform="translate(-6.8, 9.547169811320755)">
                                 <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -2165,7 +2165,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>liquidslr/leetcode-company-wise-problems</span>
-                                        <span>starred 19 hours ago</span>
+                                        <span>starred 20 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Lists of company wise questions available on leetcode premium. Every csv file in the companies directory corresponds to a list of questions on leetcode for a specific company based on the leetcode company tags. Updated as of 20 June, 2025</div>
