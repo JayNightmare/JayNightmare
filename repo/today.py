@@ -8,18 +8,21 @@ import aiohttp
 from dateutil import relativedelta
 from lxml import etree
 
+from dotenv import load_dotenv
 from art import load_ascii_from_file, ascii_to_svg, get_random_file
 from github_stats import generate_github_stats_svg
 from languages_svg import get_most_used_languages, generate_languages_svg
 
+load_dotenv()
 
 # Fine-grained personal access token with All Repositories access:
 # Account permissions: read:Followers, read:Starring, read:Watching
 # Repository permissions: read:Commit statuses, read:Contents, read:Issues, read:Metadata, read:Pull Requests
 # Issues and pull requests permissions not needed at the moment, but may be used in the future
-HEADERS = {'authorization': 'token '+ os.environ['ACCESS_TOKEN']}
-PROXY = os.environ.get('PROXY')
+ACCESS_TOKEN = os.environ['ACCESS_TOKEN']
+HEADERS = {'authorization': 'token '+ ACCESS_TOKEN}
 USER_NAME = os.environ['USER_NAME']
+PROXY = os.environ.get('PROXY') or None
 EXCLUDED_REPOS = os.environ.get('EXCLUDED_REPOS', '').split(',') if os.environ.get('EXCLUDED_REPOS') else []
 EXCLUDED_LANGUAGES = os.environ.get('EXCLUDED_LANGUAGES', '').split(',') if os.environ.get('EXCLUDED_LANGUAGES') else [] #only for most languages used
 
