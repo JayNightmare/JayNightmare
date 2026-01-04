@@ -11,7 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Generate and commit metrics
-        uses: JayNightmare/JayNightmare/repo/action.yml@main
+        uses: JayNightmare/JayNightmare/repo@main
         with:
           target_repository: JayNightmare/IDE-Lab
           target_branch: main
