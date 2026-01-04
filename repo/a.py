@@ -1,5 +1,5 @@
 import asyncio
-import repo.today
+import today
 
 if __name__ == "__main__":
-    asyncio.run(repo.today.main())
+    asyncio.run(today.main())
