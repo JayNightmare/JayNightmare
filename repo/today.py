@@ -11,7 +11,7 @@ from lxml import etree
 from art import load_ascii_from_file, ascii_to_svg, get_random_file
 from github_stats import generate_github_stats_svg
 from languages_svg import get_most_used_languages, generate_languages_svg
-from lastfm import lastfm_getter
+
 
 # Fine-grained personal access token with All Repositories access:
 # Account permissions: read:Followers, read:Starring, read:Watching
@@ -22,8 +22,7 @@ PROXY = os.environ.get('PROXY')
 USER_NAME = os.environ['USER_NAME']
 EXCLUDED_REPOS = os.environ.get('EXCLUDED_REPOS', '').split(',') if os.environ.get('EXCLUDED_REPOS') else []
 EXCLUDED_LANGUAGES = os.environ.get('EXCLUDED_LANGUAGES', '').split(',') if os.environ.get('EXCLUDED_LANGUAGES') else [] #only for most languages used
-LASTFM_TOKEN = os.environ.get('LASTFM_TOKEN')
-LASTFM_USER = os.environ.get('LASTFM_USER')
+
 QUERY_COUNT = {'user_getter': 0, 'follower_getter': 0, 'graph_repos_stars': 0, 'recursive_loc': 0, 'graph_commits': 0, 'loc_query': 0}
 
 
@@ -347,7 +346,7 @@ def stars_counter(data):
     return total_stars
 
 
-def svg_overwrite(filename, lastfm_svg, ascii_svg, github_stats_svg, most_used_lang_svg):
+def svg_overwrite(filename, ascii_svg, github_stats_svg, most_used_lang_svg):
     """
     Parse SVG files and update elements with my age, commits, stars, repositories, and lines written
     """
@@ -364,7 +363,7 @@ def svg_overwrite(filename, lastfm_svg, ascii_svg, github_stats_svg, most_used_l
         else:
             print(f"Not found {name} class")
 
-    overwrite_blocks(lastfm_svg,"lastfm_block")
+
     overwrite_blocks(ascii_svg,"ascii")
     overwrite_blocks(github_stats_svg,"github_stats")
     overwrite_blocks(most_used_lang_svg,"languages_block")
@@ -508,8 +507,7 @@ async def main():
 
         for index in range(len(total_loc)-1): total_loc[index] = '{:,}'.format(total_loc[index]) # format added, deleted, and total LOC
 
-        lastfm_svg, lastfm_time = await perf_counter(lastfm_getter, session, LASTFM_TOKEN, LASTFM_USER)
-        formatter('lastfm calculation', lastfm_time)
+
 
         def ascii_getter():
             root = etree.parse('dark_mode.svg').getroot()
@@ -517,7 +515,7 @@ async def main():
             return ascii_to_svg(load_ascii_from_file(get_random_file('arts/', filename)), 15, 30, "#c9d1d9")
 
         ascii_svg, ascii_time = await perf_counter(ascii_getter)
-        formatter('ascii calculation', lastfm_time)
+        formatter('ascii calculation', ascii_time)
 
 
         def github_stats_getter():
@@ -534,15 +532,15 @@ async def main():
         most_used_lang_svg, most_used_lang_time = await perf_counter(most_used_lang_getter)
         formatter('most lang svg calculation', most_used_lang_time)
 
-        svg_overwrite('dark_mode.svg',  lastfm_svg, ascii_svg, github_stats_svg, most_used_lang_svg)
-        svg_overwrite('light_mode.svg', lastfm_svg, ascii_svg, github_stats_svg, most_used_lang_svg)
+        svg_overwrite('dark_mode.svg', ascii_svg, github_stats_svg, most_used_lang_svg)
+        svg_overwrite('light_mode.svg', ascii_svg, github_stats_svg, most_used_lang_svg)
 
         # move cursor to override 'Calculation times:' with 'Total function time:' and the total function time, then move cursor back
         print(
             '\x1b[15F',
             '{:<21}'.format('Total function time:'),
             '{:>11}'.format('%.4f' % (
-                        user_time + age_time + loc_time + commit_time + star_time + repo_time + contrib_time + lastfm_time + ascii_time + github_stats_time + most_used_lang_time)),
+                        user_time + age_time + loc_time + commit_time + star_time + repo_time + contrib_time + ascii_time + github_stats_time + most_used_lang_time)),
             ' s ' + '\x1b[E' * 15,
             sep=''
         )

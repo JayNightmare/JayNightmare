@@ -23,8 +23,7 @@ jobs:
           excluded_languages: ""
           proxy: ""
           comment_size: ""
-          lastfm_token: ""
-          lastfm_user: ""
+
   github-metrics:
     runs-on: ubuntu-latest
     environment:
