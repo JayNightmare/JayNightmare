@@ -1,24 +1,32 @@
 {
-  "plugins.default": false,             "//": "Default plugin state (advised to let 'false' unless in debug mode)",
-  "plugins": {                          "//": "Global plugin configuration",
-    "sponsorships":{
-      "enabled": true,                 "//": "Enable sponsorships plugin"
-    },
-    "sponsors":{
-      "enabled": true,                 "//": "Enable sponsors plugin"
-    },
-    "achievements":{
-      "enabled": true,                 "//": "Enable achievements plugin"
-    },
-    "leetcode":{
-      "enabled": true,                 "//": "Enable leetcode plugin"
-    },
-    "16personalities":{
-      "enabled": true,                 "//": "Enable 16personalities plugin"
-    },
-    "fortune":{
-      "enabled": true,                 "//": "Enable fortune plugin"
+    "plugins.default": false,
+    "//": "Default plugin state (advised to let 'false' unless in debug mode)",
+    "plugins": {
+        "//": "Global plugin configuration",
+        "sponsorships": {
+            "enabled": true,
+            "//": "Enable sponsorships plugin"
+        },
+        "sponsors": {
+            "enabled": true,
+            "//": "Enable sponsors plugin"
+        },
+        "achievements": {
+            "enabled": true,
+            "//": "Enable achievements plugin"
+        },
+        "leetcode": {
+            "enabled": true,
+            "//": "Enable leetcode plugin"
+        },
+        "16personalities": {
+            "enabled": true,
+            "//": "Enable 16personalities plugin"
+        },
+        "fortune": {
+            "enabled": true,
+            "//": "Enable fortune plugin"
+        },
+        "//": ""
     }
-    "//": ""
-  }
 }

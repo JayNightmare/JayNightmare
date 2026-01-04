@@ -12,4 +12,4 @@ dependencies = [
 ]
 
 [project.scripts]
-metrics-generator = "today:main"
+metrics-generator = "repo.today:main"
