@@ -106,7 +106,7 @@ runs:
       shell: bash
 
     - name: Run metrics generator
-      run: uv run repo/a.py
+      run: uv run a.py
       env:
         ACCESS_TOKEN: ${{ inputs.access_token }}
         USER_NAME: ${{ inputs.user_name }}
