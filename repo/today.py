@@ -24,6 +24,10 @@ EXCLUDED_REPOS = os.environ.get('EXCLUDED_REPOS', '').split(',') if os.environ.g
 EXCLUDED_LANGUAGES = os.environ.get('EXCLUDED_LANGUAGES', '').split(',') if os.environ.get('EXCLUDED_LANGUAGES') else [] #only for most languages used
 
 QUERY_COUNT = {'user_getter': 0, 'follower_getter': 0, 'graph_repos_stars': 0, 'recursive_loc': 0, 'graph_commits': 0, 'loc_query': 0}
+ROOT_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+
+def get_path(filename):
+    return os.path.join(ROOT_DIR, filename)
 
 
 def daily_readme(birthday):
@@ -249,7 +253,7 @@ async def cache_builder(session, edges, comment_size, force_cache, loc_add=0, lo
         print(f"Filtered out {len(excluded_repos)} excluded repositories: {', '.join(excluded_repos)}")
 
     cached = True # Assume all repositories are cached
-    filename = 'cache/'+hashlib.sha256(USER_NAME.encode('utf-8')).hexdigest()+'.txt' # Create a unique filename for each user
+    filename = get_path('cache/'+hashlib.sha256(USER_NAME.encode('utf-8')).hexdigest()+'.txt') # Create a unique filename for each user
     try:
         with open(filename, 'r') as f:
             data = f.readlines()
@@ -310,7 +314,7 @@ def add_archive():
     Several repositories I have contributed to have since been deleted.
     This function adds them using their last known data
     """
-    with open('cache/repository_archive.txt', 'r') as f:
+    with open(get_path('cache/repository_archive.txt'), 'r') as f:
         data = f.readlines()
     old_data = data
     data = data[7:len(data)-3] # remove the comment block
@@ -330,7 +334,7 @@ async def force_close_file(data, cache_comment):
     Forces the file to close, preserving whatever data was written to it
     This is needed because if this function is called, the program would've crashed before the file is properly saved and closed
     """
-    filename = 'cache/'+hashlib.sha256(USER_NAME.encode('utf-8')).hexdigest()+'.txt'
+    filename = get_path('cache/'+hashlib.sha256(USER_NAME.encode('utf-8')).hexdigest()+'.txt')
     with open(filename, 'w') as f:
         f.writelines(cache_comment)
         f.writelines(data)
@@ -387,7 +391,7 @@ def commit_counter(comment_size):
     Counts up my total commits, using the cache file created by cache_builder.
     """
     total_commits = 0
-    filename = 'cache/'+hashlib.sha256(USER_NAME.encode('utf-8')).hexdigest()+'.txt' # Use the same filename as cache_builder
+    filename = get_path('cache/'+hashlib.sha256(USER_NAME.encode('utf-8')).hexdigest()+'.txt') # Use the same filename as cache_builder
     with open(filename, 'r') as f:
         data = f.readlines()
     cache_comment = data[:comment_size] # save the comment block
@@ -510,9 +514,9 @@ async def main():
 
 
         def ascii_getter():
-            root = etree.parse('dark_mode.svg').getroot()
+            root = etree.parse(get_path('dark_mode.svg')).getroot()
             filename = root.get('data-filename')
-            return ascii_to_svg(load_ascii_from_file(get_random_file('arts/', filename)), 15, 30, "#c9d1d9")
+            return ascii_to_svg(load_ascii_from_file(get_random_file(get_path('arts/'), filename)), 15, 30, "#c9d1d9")
 
         ascii_svg, ascii_time = await perf_counter(ascii_getter)
         formatter('ascii calculation', ascii_time)
@@ -532,8 +536,8 @@ async def main():
         most_used_lang_svg, most_used_lang_time = await perf_counter(most_used_lang_getter)
         formatter('most lang svg calculation', most_used_lang_time)
 
-        svg_overwrite('dark_mode.svg', ascii_svg, github_stats_svg, most_used_lang_svg)
-        svg_overwrite('light_mode.svg', ascii_svg, github_stats_svg, most_used_lang_svg)
+        svg_overwrite(get_path('dark_mode.svg'), ascii_svg, github_stats_svg, most_used_lang_svg)
+        svg_overwrite(get_path('light_mode.svg'), ascii_svg, github_stats_svg, most_used_lang_svg)
 
         # move cursor to override 'Calculation times:' with 'Total function time:' and the total function time, then move cursor back
         print(
