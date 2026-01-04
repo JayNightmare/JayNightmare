@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm JayNightmare! 👋 
+# Hi there, I'm JayNightmare! 👋
 
 </div>
 
@@ -64,32 +64,33 @@
 <div align="center">
 
 ## 🚀 About Me
+
 </div>
 
 Welcome to my GitHub profile! I'm a passionate developer with a love for creating innovative solutions and exploring new technologies. Here's a little bit about me:
 
+-   🌱 I’m currently learning advanced web development and cloud computing.
+-   👯 I’m looking to collaborate on open-source projects and interesting coding challenges.
+-   💬 Ask me about anything related to JavaScript, Python, or DevOps.
+-   📫 How to reach me: [jn3.enquiries@gmail.com](mailto:jn3.enquiries@gmail.com)
+-   ⚡ Fun fact: I am a huge fan of sci-fi movies and enjoy playing the guitar in my free time.
 
-- 🌱 I’m currently learning advanced web development and cloud computing.
-- 👯 I’m looking to collaborate on open-source projects and interesting coding challenges.
-- 💬 Ask me about anything related to JavaScript, Python, or DevOps.
-- 📫 How to reach me: [jn3.enquiries@gmail.com](mailto:jn3.enquiries@gmail.com)
-- ⚡ Fun fact: I am a huge fan of sci-fi movies and enjoy playing the guitar in my free time.
- 
 <div align="center">
 
 ## 🛠️ Technologies & Tools
+
 </div>
 
-- **Languages:** JavaScript, Python, Java, Kotlin, PHP 
-- **Frameworks/Libraries:** React, React Native, Node.js, Discord.js
-- **DevOps:** Docker, Kubernetes, GitHub Actions
-- **Cloud:** AWS, Azure, Google Cloud Platform, Firebase
-- **Databases:** MySQL, MongoDB, SQLite3
+-   **Languages:** JavaScript, Python, Java, Kotlin, PHP
+-   **Frameworks/Libraries:** React, React Native, Node.js, Discord.js
+-   **DevOps:** Docker, Kubernetes, GitHub Actions
+-   **Cloud:** AWS, Azure, Google Cloud Platform, Firebase
+-   **Databases:** MySQL, MongoDB, SQLite3
 
 [![JayNightmare's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JayNightmare&hide_border=true&theme=high-contrast)](https://github.com/JayNightmare/github-readme-activity-graph)
 
 ---
- 
+
 <div align="center">
   <h3 align="center">My Activity:</h3>
   <div align="center">
@@ -132,6 +133,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for creatin
   <div align="center">
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JayNightmare&theme=radical)
+
 </div>
 
   <div align="center">
