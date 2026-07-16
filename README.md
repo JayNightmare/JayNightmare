@@ -136,7 +136,7 @@
     <img src="https://avatars.githubusercontent.com/u/141369925" width="64" title="Nexus Scripture" alt="Nexus Scripture">
   </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/KURExTech" target="_blank" rel="noopener">
+  <a href="https://github.com/KURE-x-Tech" target="_blank" rel="noopener">
     <img src="https://avatars.githubusercontent.com/u/274032883" width="64" title="KURE x Tech" alt="KURE x Tech">
   </a>
 </p>
