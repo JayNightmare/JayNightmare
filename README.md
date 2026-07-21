@@ -44,7 +44,7 @@
 > I'm a passionate developer focused on building innovative solutions and exploring new technologies - bridging research and engineering to ship things that matter.
 
 - 🎓 Currently studying an **MSc in Artificial Intelligence**
-- 🔬 Aspiring **PhD student** - researching _"Can Augmented Reality support Wellbeing and Health?"_
+- 🔬 Aspiring **PhD student** - researching _"Brain-Inspired Modular AI with Plastic Connectivity, Neuromodulatory Internal-State Variables, and Offline Replay-Based Consolidation"_
 - 💻 **Researcher, Software Engineer, and Full Stack Developer**
 - 🏫 **Research Assistant**, **Academic Mentor**, and **Guest Lecturer** at **Kingston University**
 - 📫 Reach me at **[jn3.enquiries@gmail.com](mailto:jn3.enquiries@gmail.com)**
@@ -123,21 +123,33 @@
 <!-- ====================== ORGANISATIONS ====================== -->
 <div align="center">
 
-## 🏢 Organisations 🏢
+## 🏢 Active Orgs 🏢
+
+</div>
+
+<p align="center">
+  <a href="https://github.com/KURE-x-Tech" target="_blank" rel="noopener">
+    <img src="https://avatars.githubusercontent.com/u/274032883" width="64" title="KURE x Tech" alt="KURE x Tech">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/KERI-Research" target="_blank" rel="noopener">
+    <img src="https://avatars.githubusercontent.com/u/307146835" width="64" title="KERI Research" alt="KERI Research">
+  </a>
+</p>
+
+<div align="center">
+
+## 🏢 Other Orgs 🏢
 
 </div>
 
 <p align="center">
   <a href="https://github.com/Augmented-Perception" target="_blank" rel="noopener">
-    <img src="https://avatars.githubusercontent.com/u/210730556" width="64" title="Augmented Perception" alt="Augmented Perception">
+    <img src="https://avatars.githubusercontent.com/u/210730556" width="64" title="KURE x Tech" alt="KURE x Tech">
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/Nexus-Scripture" target="_blank" rel="noopener">
     <img src="https://avatars.githubusercontent.com/u/141369925" width="64" title="Nexus Scripture" alt="Nexus Scripture">
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/KURE-x-Tech" target="_blank" rel="noopener">
-    <img src="https://avatars.githubusercontent.com/u/274032883" width="64" title="KURE x Tech" alt="KURE x Tech">
   </a>
 </p>
 
