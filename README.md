@@ -90,7 +90,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F61?style=flat-square&logo=databricks&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Neon](https://img.shields.io/badge/Neon-4169E1?style=flat-square&logoColor=white)
+![Neon](https://img.shields.io/badge/Neon-4169E1?style=flat-square&logo=neon&logoColor=white)
 
 **AI Tools**
 
