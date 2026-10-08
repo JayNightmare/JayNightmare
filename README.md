@@ -44,9 +44,13 @@
 > I'm a passionate developer focused on building innovative solutions and exploring new technologies - bridging research and engineering to ship things that matter.
 
 - 🎓 Currently studying an **MSc in Artificial Intelligence**
-- 🔬 Aspiring **PhD student** - researching _"Brain-Inspired Modular AI with Plastic Connectivity, Neuromodulatory Internal-State Variables, and Offline Replay-Based Consolidation"_
+- 🔬 Aspiring **PhD student** in Computer Science Artificial Intelligence
 - 💻 **Researcher, Software Engineer, and Full Stack Developer**
-- 🏫 **Research Assistant**, **Academic Mentor**, and **Guest Lecturer** at **Kingston University**
+    - Currently researching [_"Brain-Inspired Modular AI with Plastic Connectivity, Neuromodulatory Internal-State Variables, and Offline Replay-Based Consolidation"_](https://doi.org/10.13140/RG.2.2.31948.37768) 
+- 🏫 **Research Assistant**, **Academic Mentor**, and **Guest Lecturer** @ **Kingston University**
+- 🏅 **4th Place** in [LSIS-AFS CCSDS Competition](https://github.com/KURE-x-Tech/Spreading-Codes)
+    - Hosted by European Space Agency (ESA), in partnership with Goonhilly Earth Station, CCSDS, AMSAT-UK, and AMSAT-DL
+    - Results will be presented at the upcoming CCSDS meeting @ Matera, Italy during the 'Space Link Services Are' talk
 - 📫 Reach me at **[jn3.enquiries@gmail.com](mailto:jn3.enquiries@gmail.com)**
 
 <!-- ====================== TECH STACK ====================== -->
@@ -111,14 +115,11 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/JayNightmare/Polished-Portfolio" target="_blank" rel="noopener">
-    <img src="https://img.shields.io/badge/Polished--Portfolio-1a1b27?style=for-the-badge&logo=github&logoColor=7aa2f7" alt="Polished-Portfolio" />
-  </a>
   <a href="https://github.com/JayNightmare/PrERT-CNM-v4" target="_blank" rel="noopener">
-    <img src="https://img.shields.io/badge/PrERT--CNM--v4-1a1b27?style=for-the-badge&logo=github&logoColor=7aa2f7" alt="PrERT-CNM-v4" />
+    <img src="https://img.shields.io/badge/PrERT--CNM--v4-1a1b27?style=for-the-badge" alt="PrERT CNM v4" />
   </a>
-  <a href="https://github.com/JayNightmare/FakeNews" target="_blank" rel="noopener">
-    <img src="https://img.shields.io/badge/FakeNews-1a1b27?style=for-the-badge&logo=github&logoColor=7aa2f7" alt="FakeNews" />
+  <a href="https://github.com/JayNightmare/FilmReel" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/badge/FilmReel?style=for-the-badge" alt="Film Reel" />
   </a>
 </div>
 
@@ -130,12 +131,8 @@
 </div>
 
 <p align="center">
-  <a href="https://github.com/KURE-x-Tech" target="_blank" rel="noopener">
-    <img src="https://avatars.githubusercontent.com/u/274032883" width="64" title="KURE x Tech" alt="KURE x Tech">
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/KERI-Research" target="_blank" rel="noopener">
-    <img src="https://avatars.githubusercontent.com/u/307146835" width="64" title="KERI Research" alt="KERI Research">
+  <a href="https://github.com/Mars-Command" target="_blank" rel="noopener">
+    <img src="https://avatars.githubusercontent.com/u/339303160" width="64" title="Mars Command" alt="Mars Command">
   </a>
 </p>
 
@@ -146,6 +143,14 @@
 </div>
 
 <p align="center">
+  <a href="https://github.com/KURE-x-Tech" target="_blank" rel="noopener">
+    <img src="https://avatars.githubusercontent.com/u/274032883" width="64" title="KURE x Tech" alt="KURE x Tech">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/KERI-Research" target="_blank" rel="noopener">
+    <img src="https://avatars.githubusercontent.com/u/307146835" width="64" title="KERI Research" alt="KERI Research">
+  </a>
+  &nbsp;&nbsp;
   <a href="https://github.com/Augmented-Perception" target="_blank" rel="noopener">
     <img src="https://avatars.githubusercontent.com/u/210730556" width="64" title="KURE x Tech" alt="KURE x Tech">
   </a>
